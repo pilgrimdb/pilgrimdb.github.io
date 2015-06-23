@@ -1,0 +1,40 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: "page"
+#      permalink: "/:title"
+
+#
+# Flags below are optional
+#
+
+# Used for Sitemap.xml and your RSS feed
+url: http://pilgrimdb.github.io
+
+kramdown:
+  input: GFM
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME

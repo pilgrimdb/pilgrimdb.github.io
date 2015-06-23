@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  <h1>{{ page.title }}</h1>
+  <h3>Id: {{ page.id }}</h3>
+
+  <div class="entry">
+    {{ content }}
+    
+    {% if page.mapped != "" and page.mapped != nil %}
+    <h3>Mapped Sections</h3>
+    <ul id="mappedSections">
+    {% for section in page.mapped %}
+      <li><a href="{{ section.fid }}">{{ section.title }}</a> {{ section.distance }}km {{ section.branch }} {{ section.fid }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if page.unmapped != "" and page.unmapped != nil %}
+    <h3>Unmapped Sections</h3>
+    <ul id="unmappedSections">
+    {% for section in page.unmapped %}
+      <li>{{ section.branch }} {{ section.towns }}</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+</article>
