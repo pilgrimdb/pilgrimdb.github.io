@@ -13,14 +13,14 @@ layout: default
     <ul id="branches">
     {% assign mapagencies = "" %}
     {% for branch in page.branches %}
-      {% assign countries = array[0] %}{% assign towns = branch.towns | split:"," %}
+      {% assign countries = "" %}{% assign towns = branch.towns | split:"," %}
       {% for town in towns %}
       {% assign country = site.data.places[town].country %}
       {% unless countries contains country %}
         {% capture countries %}{{ countries }}{% if forloop.first == false %}|{% endif %}{{ country }}{% endcapture %}
       {% endunless %}
       {% endfor %}
-      <li>{{ branch.branch }}: {{ branch.towns | replace:',','-' }} {{ countries | split: '|' | sort | join: ', ' }} {{ branch.mapagencies }} {% if branch.unmapped %}(unmapped){% endif %}</li>
+      <li>{{ branch.branch }}: {{ branch.towns | replace:',','-' }} {{ countries | split: '|' | sort | join: ', ' }} {% if branch.unmapped %}(unmapped){% else %}{{ branch.mapagencies }}{% endif %}</li>
       {% if branch.mapagencies %}{% assign agencies = branch.mapagencies | split: ',' %}
       {% for agency in agencies %}{% unless mapagencies contains agency %}
         {% capture mapagencies %}{{ mapagencies }}{% if forloop.first == false %}|{% endif %}{{ agency }}{% endcapture %}
