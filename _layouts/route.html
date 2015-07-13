@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<article class="route">
+
+  <h4>Id: {{ page.id }}</h4>
+
+  <div class="entry">
+    {% if page.branches %}
+    <h3>Branches</h3>
+
+    <ul id="branches">
+    {% for branch in page.branches %}
+      {% assign countries = array[0] %}{% assign towns = branch.towns | split:"," %}
+      {% for town in towns %}
+      {% assign country = site.data.places[town].country %}
+      {% unless countries contains country %}
+        {% capture countries %}{{ countries }}{% if forloop.first == false %}|{% endif %}{{ country }}{% endcapture %}
+      {% endunless %}
+      {% endfor %}
+      <li>{{ branch.branch }}: {{ branch.towns | replace:',','-' }} {{ countries | split: '|' | sort | join: ', ' }} {{ branch.mapagencies }} {% if branch.unmapped %}(unmapped){% endif %}</li>
+    {% endfor %}
+    </ul>
+
+    <!-- create overview map geojson from branch towns; geometry fetched from _data/towns -->
+    {% assign features = "" %}
+    {% for branch in page.branches %}
+      {% assign linestring = "[" %}{% assign towns = branch.towns | split:"," %}
+      {% comment %}get town coords{% endcomment %}
+      {% for town in towns %}
+      {% capture coord %}{{ site.data.places[town].geometry }}{% if forloop.last == false %},{% else %}]{% endif %}{% endcapture %}
+      {% comment %}convert to linestring{% endcomment %}
+      {% capture linestring %}{{ linestring | append: coord }}{% endcapture %}
+      {% endfor %}
+      {% comment %}liquid can't handle close curly in string{% endcomment %}
+      {% capture feature %}{{ '{"type":"Feature","geometry":{"type":"LineString","coordinates":' | uri_escape }}{{ linestring }}{{ ',"properties":{' | uri_escape | append:"%7D%7D" | prepend:'%7D' }}{% if forloop.last == false %},{% endif %}{% endcapture %}
+      {% capture features %}{{ features | append: feature }}{% endcapture %}
+    {% endfor %}
+    {% capture geo %}{{ '{"type":"FeatureCollection","features":[' | uri_escape }}{{features}}%5D%7D{% endcapture %}
+    <figure>
+    <img src="http://api.tiles.mapbox.com/v4/mapbox.run-bike-hike/geojson%28{{geo}}%29/auto/500x300.png?access_token={{site.apikeys.mapbox}}" alt="overview map" title="overview map">
+    <figcaption>Lines schematic only; base map <a href="https://www.mapbox.com/about/maps/">© Mapbox © OpenStreetMap</a></figcaption>
+    </figure>
+    {% endif %}
+
+    <h3>Description</h3>
+    {{ content }}
+
+    {% if site.data.mapsections[page.id] %}
+    <h3>Mapped Sections</h3>
+    <ul id="mappedSections">
+    {% assign prevbranch = "" %}
+    {% for mapsection in site.data.mapsections[page.id] %}
+    {% assign section = site.data.features[mapsection] %}
+      {% capture branch %}{% if section.branch %}{{ section.branch }}{% else %}0{% endif %}{% endcapture %}
+      {% if branch != prevbranch %}{% assign branchkm = section.distance %}{% assign prevbranch = branch %}{% else %}
+      {% assign branchkm = branchkm | plus: section.distance %}{% endif %}
+      <li>{{ branch }}
+          {{ section.title }} {{ section.distance }}km {{ branchkm }}km {{ section.branch }} <a href="/features/{{ section.id }}.geojson">GeoJSON</a> <a href="/maps.html?r=osm&v=/features/{{ section.id }}.geojson">OSM map</a>  {{ section.id }}</li>
+    {% endfor %}
+    </ul>
+
+    <h4>Map of all mapped sections</h4>
+    <a href="maps.html?r=osm&v=/{{ page.id }}.geojson">OSM</a>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,7 @@
+---
+layout: fc
+# feature json is in includes/feature.json
+---
+{% assign name = {{page.url | remove: "/" | remove:'.geojson'}} %}
+{% for mapsection in site.data.mapsections[name] %}{% assign f = site.data.features[mapsection] %}
+{% include feature.json %}{% if forloop.last == false %},{% endif %}{% endfor %}

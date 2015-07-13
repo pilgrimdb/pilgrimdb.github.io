@@ -1,0 +1,1 @@
+{% capture fname %}geometries/{{f.id}}.geojson{% endcapture %}{"type":"Feature","id":{{f.id}},"properties":{"route":"{{f.route}}","title":"{{f.title}}"},"geometry":{% include_relative {{fname}} %}}

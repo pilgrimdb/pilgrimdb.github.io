@@ -1,0 +1,6 @@
+---
+layout: null
+# actual feature json is in includes/feature.json
+---
+{% assign fid = page.url | remove: "/features/" | remove: ".geojson" | downcase %}{% assign f = site.data.features[fid] %}
+{% include feature.json %}

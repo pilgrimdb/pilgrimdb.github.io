@@ -1,0 +1,49 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "routes"
+      type: "routes"
+    values:
+      layout: "route"
+#      permalink: "/:title"
+  -
+    scope:
+      path: ""
+      type: "features"
+    values:
+      layout: "feature"
+
+collections:
+  features:
+    output: true
+  routes:
+    output: true
+
+apikeys:
+    bing: xxx
+    mapbox: pk.eyJ1IjoicHdyIiwiYSI6Il91MVVLWTQifQ.1YZ2WV0YGPCd2H9PIODhBA
+
+kramdown:
+  input: GFM
+
+# plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
