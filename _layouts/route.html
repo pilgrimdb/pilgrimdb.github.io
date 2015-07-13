@@ -11,6 +11,7 @@ layout: default
     <h3>Branches</h3>
 
     <ul id="branches">
+    {% assign mapagencies = "" %}
     {% for branch in page.branches %}
       {% assign countries = array[0] %}{% assign towns = branch.towns | split:"," %}
       {% for town in towns %}
@@ -20,6 +21,10 @@ layout: default
       {% endunless %}
       {% endfor %}
       <li>{{ branch.branch }}: {{ branch.towns | replace:',','-' }} {{ countries | split: '|' | sort | join: ', ' }} {{ branch.mapagencies }} {% if branch.unmapped %}(unmapped){% endif %}</li>
+      {% if branch.mapagencies %}{% assign agencies = branch.mapagencies | split: ',' %}
+      {% for agency in agencies %}{% unless mapagencies contains agency %}
+        {% capture mapagencies %}{{ mapagencies }}{% if forloop.first == false %}|{% endif %}{{ agency }}{% endcapture %}
+      {% endunless %}{% endfor %}{% endif %}
     {% endfor %}
     </ul>
 
@@ -63,6 +68,9 @@ layout: default
 
     <h4>Map of all mapped sections</h4>
     <a href="maps.html?r=osm&c=tooltip,popup&v=/{{ page.id }}.geojson">OSM</a>
+    {% assign agencies = mapagencies | split: '|' %}{% for agency in agencies %}
+    <a href="maps.html?r={{agency}}&c=tooltip,popup&v=/{{ page.id }}.geojson">{{agency}}</a>
+    {% endfor %}
     {% endif %}
   </div>
 </article>
