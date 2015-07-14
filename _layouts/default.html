@@ -29,7 +29,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p><a id="forkme_banner" href="{{ site.github.repository_url }}">Contribute on GitHub</a>
+        <p><a id="forkme_banner" href="{{site.github.repository_url}}/blob/master/{% if page.layout == 'default' %}{{page.path}}{% else %}{{page.relative_path}}{% endif %}">Edit this page on GitHub</a>
         Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
