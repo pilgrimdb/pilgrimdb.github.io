@@ -20,7 +20,7 @@ layout: default
         {% capture countries %}{{ countries }}{% if forloop.first == false %}|{% endif %}{{ country }}{% endcapture %}
       {% endunless %}
       {% endfor %}
-      <li>{{ branch.branch }}: {{ branch.towns | replace:',','-' }} {{ countries | split: '|' | sort | join: ', ' }} {% if branch.unmapped %}(unmapped){% else %}{{ branch.mapagencies }}{% endif %}</li>
+      <li>{{ branch.branch }}: {{ branch.towns | replace:',','-' }} {{ countries | split: '|' | sort | join: ', ' }} {% if branch.unmapped %}(unmapped){% endif %}</li>
       {% if branch.mapagencies %}{% assign agencies = branch.mapagencies | split: ',' %}
       {% for agency in agencies %}{% unless mapagencies contains agency %}
         {% capture mapagencies %}{{ mapagencies }}{% if forloop.first == false %}|{% endif %}{{ agency }}{% endcapture %}
@@ -55,22 +55,20 @@ layout: default
     {% if site.data.mapsections[page.id] %}
     <h3>Mapped Sections</h3>
     <ul id="mappedSections">
-    {% assign prevbranch = "" %}
+    {% assign agencies = mapagencies | split: '|' %}{% assign prevbranch = "" %}
     {% for mapsection in site.data.mapsections[page.id] %}
     {% assign section = site.data.features[mapsection] %}
       {% capture branch %}{% if section.branch %}{{ section.branch }}{% else %}0{% endif %}{% endcapture %}
       {% if branch != prevbranch %}{% assign branchkm = section.distance %}{% assign prevbranch = branch %}{% else %}
       {% assign branchkm = branchkm | plus: section.distance %}{% endif %}
-      <li>{{ branch }}
-          {{ section.title }} {{ section.distance }}km {{ branchkm }}km {{ section.branch }} <a href="/features/{{ section.id }}.geojson">GeoJSON</a> <a href="/maps.html?r=osm&c=tooltip,popup&v=/features/{{ section.id }}.geojson">OSM map</a>  {{ section.id }}</li>
+      <li>{{ branch }} {{ section.title }} {{ section.distance }}km {{ branchkm }}km {{ section.branch }} <a href="/features/{{ section.id }}.geojson">GeoJSON</a>
+          map: <a href="maps.html?feature=osm/{{ section.id }}">OSM</a> {% for agency in agencies %}<a href="maps.html?feature={{agency}}/{{ section.id }}">{{site.data.maptypes[agency]}}</a> {% endfor %} ({{ section.id }})</li>
     {% endfor %}
     </ul>
 
     <h4>Map of all mapped sections</h4>
-    <a href="maps.html?r=osm&c=tooltip,popup&v=/{{ page.id }}.geojson">OSM</a>
-    {% assign agencies = mapagencies | split: '|' %}{% for agency in agencies %}
-    <a href="maps.html?r={{agency}}&c=tooltip,popup&v=/{{ page.id }}.geojson">{{agency}}</a>
-    {% endfor %}
+    <a href="maps.html?route=osm/{{ page.id }}">OSM</a>
+    {% for agency in agencies %}<a href="maps.html?route={{agency}}/{{ page.id }}">{{site.data.maptypes[agency]}}</a> {% endfor %}
     {% endif %}
   </div>
 </article>
