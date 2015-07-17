@@ -33,7 +33,7 @@ function createMapdef(str, dir) {
   el.innerHTML = map[parts[0]];
   mapDef.appendChild(el);
   el = document.createElement('components');
-  el.innerHTML = 'tooltip,popup';
+  el.innerHTML = "mouseposition,tooltip,featuredisplay";
   mapDef.appendChild(el);
   el = document.createElement('vectors');
   el.innerHTML = dir + parts[1] + '.geojson';
