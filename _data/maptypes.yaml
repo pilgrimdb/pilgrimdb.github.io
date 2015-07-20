@@ -1,21 +1,57 @@
-bing:    Bing
-a:       A
-b:       NGI/IGN
-ch:      CH
-cz:      CZ
-d:       BKG
-e:       IGN(E)
-f:       IGN(F)
-gb:      OS
-i:       IGM
-nl:      NGR (NL)
-pl:      PL
-p:       P
-relief:  Relief
-clima:   Clima
-osm:     OSM
-si:      SI
-srtm:    SRTM
-srtmea:  SRTM
-cat:     ICC
-topo:    OpenTopo
+a:
+  name: A
+  map: "at/topo"
+b:
+  name: NGI/IGN
+  map: "be/ign/topo"
+bing:
+  name: Bing
+  map: '{"bing/Road":"site.apikeys.bing"},{"bing/AerialLabels":"site.apikeys.bing"}'
+cat:
+  name: ICC
+  map: "es/icc/topo"
+ch:
+  name: CH
+clima:
+  name: Clima
+cz:
+  name: CZ
+  map: "cz/zm"
+d:
+  name: BKG
+  map: "de/bkg/atlasde"
+e:
+  name: IGN(E)
+  map: "es/ign/mtn"
+f:
+  name: IGN(F)
+gb:
+  name: OS
+i:
+  name: IGM
+  map: "it/pcn"
+nl:
+  name: NGR (NL)
+  map: "nl/ngr/achter"
+osm:
+  name: OSM
+  map: "osm/osm"
+p:
+  name: P
+  map: "pt/dgt/sc"
+pl:
+  name: PL
+  map: "pl/topo"
+relief:
+  name: Relief
+  map: "srtm/maps4free"
+si:
+  name: SI
+  map: "si/gurs"
+srtm:
+  name: SRTM
+srtmea:
+  name: SRTM
+topo:
+  name: OpenTopo
+  map: "osm/opentopo"

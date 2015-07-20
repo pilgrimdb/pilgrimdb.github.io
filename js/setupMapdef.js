@@ -24,27 +24,12 @@ qs.forEach(function(part) {
 document.body.appendChild(mapDef);
 
 function createMapdef(str, dir) {
-  var map = {
-    a: "at/topo",
-    b: "be/ign/topo",
-    bing: '{"bing/Road":"{{site.apikeys.bing}}"},'+
-        '{"bing/AerialLabels":"{{site.apikeys.bing}}"}',
-    cat: "es/icc/topo",
-    cz: "cz/zm",
-    d: "de/bkg/atlasde",
-    e: "es/ign/mtn",
-    i: "it/pcn",
-    nl: "nl/ngr/achter",
-    osm: "osm/osm",
-    p: "pt/dgt/sc",
-    pl: "pl/topo",
-    relief: "srtm/maps4free",
-    si: "si/gurs",
-    topo: "osm/opentopo"
-  };
+  var maptypes = {{site.data.maptypes | jsonify}};
+  // what a horrible hack!
+  maptypes.bing.map = maptypes.bing.map.replace(/site.apikeys.bing/g, '{{site.apikeys.bing}}');
   var parts = str.split('/');
   var el = document.createElement('rasters');
-  el.innerHTML = map[parts[0]];
+  el.innerHTML = maptypes[parts[0]].map;
   mapDef.appendChild(el);
   el = document.createElement('components');
   el.innerHTML = "mouseposition,tooltip,featuredisplay";
