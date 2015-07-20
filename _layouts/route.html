@@ -62,12 +62,12 @@ layout: default
       {% if branch != prevbranch %}{% assign branchkm = section.distance %}{% assign prevbranch = branch %}{% else %}
       {% assign branchkm = branchkm | plus: section.distance %}{% endif %}
       <li>{{ branch }} {{ section.title }} {{ section.distance }}km {{ branchkm }}km {{ section.branch }} <a href="/features/{{ section.id }}.geojson">GeoJSON</a>
-          map: <a href="maps.html?feature=osm/{{ section.id }}">OSM</a> {% for agency in agencies %}<a href="maps.html?feature={{agency}}/{{ section.id }}">{{site.data.maptypes[agency]}}</a> {% endfor %} ({{ section.id }})</li>
+          map: <a href="maps.html?feature=osm/{{ section.id }}">OSM</a> <a href="maps.html?feature=bing/{{ section.id }}">Bing</a> {% for agency in agencies %}<a href="maps.html?feature={{agency}}/{{ section.id }}">{{site.data.maptypes[agency]}}</a> {% endfor %} ({{ section.id }})</li>
     {% endfor %}
     </ul>
 
     <h4>Map of all mapped sections</h4>
-    <a href="maps.html?route=osm/{{ page.id }}">OSM</a>
+    <a href="maps.html?route=osm/{{ page.id }}">OSM</a> <a href="maps.html?route=bing/{{ page.id }}">Bing</a>
     {% for agency in agencies %}<a href="maps.html?route={{agency}}/{{ page.id }}">{{site.data.maptypes[agency]}}</a> {% endfor %}
     {% endif %}
   </div>
