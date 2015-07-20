@@ -1,3 +1,6 @@
+---
+layout: none
+---
 var mapDef = document.createElement('mapdef');
 var qs = window.location.search.substring(1).split('&');
 
@@ -22,11 +25,22 @@ document.body.appendChild(mapDef);
 
 function createMapdef(str, dir) {
   var map = {
-    b: "be/ign/Topo",
-    bing: "bing/Road,bing/AerialLabels",
-    cat: "es/icc/Topo",
-    e: "es/ign/Mtn",
-    osm: "osm/osm"
+    a: "at/topo",
+    b: "be/ign/topo",
+    bing: '{"bing/Road":"{{site.apikeys.bing}}"},'+
+        '{"bing/AerialLabels":"{{site.apikeys.bing}}"}',
+    cat: "es/icc/topo",
+    cz: "cz/zm",
+    d: "de/bkg/atlasde",
+    e: "es/ign/mtn",
+    i: "it/pcn",
+    nl: "nl/ngr/achter",
+    osm: "osm/osm",
+    p: "pt/dgt/sc",
+    pl: "pl/topo",
+    relief: "srtm/maps4free",
+    si: "si/gurs",
+    topo: "osm/opentopo"
   };
   var parts = str.split('/');
   var el = document.createElement('rasters');

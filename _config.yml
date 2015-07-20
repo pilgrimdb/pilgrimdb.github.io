@@ -30,7 +30,7 @@ collections:
     output: true
 
 apikeys:
-    bing: xxx
+    bing: Ar0NqGYN0lECfmYJcKI0JQPmv2gZ_ISK-0y-ti9Wz1jOjtv7hZD3nqLV9j3an-Hi
     mapbox: pk.eyJ1IjoicHdyIiwiYSI6Il91MVVLWTQifQ.1YZ2WV0YGPCd2H9PIODhBA
 
 kramdown:

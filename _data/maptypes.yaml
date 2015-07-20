@@ -8,6 +8,7 @@ e:       IGN(E)
 f:       IGN(F)
 gb:      OS
 i:       IGM
+nl:      NGR (NL)
 pl:      PL
 p:       P
 relief:  Relief
@@ -17,3 +18,4 @@ si:      SI
 srtm:    SRTM
 srtmea:  SRTM
 cat:     ICC
+topo:    OpenTopo
