@@ -27,6 +27,8 @@ function createMapdef(str, dir) {
   var maptypes = {{site.data.maptypes | jsonify}};
   // what a horrible hack!
   maptypes.bing.map = maptypes.bing.map.replace(/site.apikeys.bing/g, '{{site.apikeys.bing}}');
+  maptypes.f.map = maptypes.f.map.replace(/site.apikeys.ignf/g, '{{site.apikeys.ignf}}');
+  maptypes.gb.map = maptypes.gb.map.replace(/site.apikeys.os/g, '{{site.apikeys.os}}');
   var parts = str.split('/');
   var el = document.createElement('rasters');
   el.innerHTML = maptypes[parts[0]].map;

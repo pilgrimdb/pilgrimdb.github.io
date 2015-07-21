@@ -12,6 +12,7 @@ cat:
   map: "es/icc/topo"
 ch:
   name: CH
+  map: "ch/topo/pixel"
 clima:
   name: Clima
 cz:
@@ -25,8 +26,10 @@ e:
   map: "es/ign/mtn"
 f:
   name: IGN(F)
+  map: '{"fr/ign/topo":"site.apikeys.ignf"},{"fr/ign/photos":"site.apikeys.ignf"},{"fr/ign/etat":"site.apikeys.ignf"}'
 gb:
   name: OS
+  map: '{"gb/os":"site.apikeys.os"}'
 i:
   name: IGM
   map: "it/pcn"

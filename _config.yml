@@ -29,9 +29,12 @@ collections:
   routes:
     output: true
 
+# FIXME these keys are registered to Peter Robins; should be changed
 apikeys:
-    bing: Ar0NqGYN0lECfmYJcKI0JQPmv2gZ_ISK-0y-ti9Wz1jOjtv7hZD3nqLV9j3an-Hi
-    mapbox: pk.eyJ1IjoicHdyIiwiYSI6Il91MVVLWTQifQ.1YZ2WV0YGPCd2H9PIODhBA
+    bing: "Ar0NqGYN0lECfmYJcKI0JQPmv2gZ_ISK-0y-ti9Wz1jOjtv7hZD3nqLV9j3an-Hi"
+    ignf: "npny9gfewgnljgyzr3ci041f"
+    mapbox: "pk.eyJ1IjoicHdyIiwiYSI6Il91MVVLWTQifQ.1YZ2WV0YGPCd2H9PIODhBA"
+    os: "47DE407BC33880F8E0405F0AF0607930"
 
 kramdown:
   input: GFM
