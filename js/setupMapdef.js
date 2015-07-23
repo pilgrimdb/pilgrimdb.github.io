@@ -15,7 +15,7 @@ qs.forEach(function(part) {
       createMapdef(pair[1], '/features/');
       break;
     case 'routes':
-      createMapdef('relief/[{"id":"Unmapped%20sections","url":"/simp.geojson"},'+
+      createMapdef('srtmea/[{"id":"Unmapped%20sections","url":"/simp.geojson"},'+
         '{"id":"Routelines","url":"/unmapped.geojson","style":{"stroke":{"color":"rgba(255,255,0,0.6)","width":3,"lineDash":[5]}}}'+
         ']');
       break;

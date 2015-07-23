@@ -55,6 +55,7 @@ srtm:
   name: SRTM
 srtmea:
   name: SRTM
+  map: "srtm/laea"
 topo:
   name: OpenTopo
   map: "osm/opentopo"
