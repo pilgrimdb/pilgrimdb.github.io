@@ -1,1 +1,1 @@
-{% capture fname %}geometries/{{f.id}}.geojson{% endcapture %}{"type":"Feature","id":{{f.id}},"properties":{"route":"{{f.route}}","title":"{{f.title}}"},"geometry":{% include_relative {{fname}} %}}
+{% capture fname %}{% if simple %}simples{% else %}geometries{% endif %}/{{f.id}}.geojson{% endcapture %}{"type":"Feature","id":{{f.id}},"properties":{"route":"{{f.route}}","title":"{{f.title}}"},"geometry":{% include_relative {{fname}} %}}
