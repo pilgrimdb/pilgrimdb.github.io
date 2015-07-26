@@ -53,6 +53,7 @@ si:
   map: "si/gurs"
 srtm:
   name: SRTM
+  map: "srtm/4326"
 srtmea:
   name: SRTM
   map: "srtm/laea"
