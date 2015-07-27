@@ -1,3 +1,4 @@
 ---
 permalink: /features/1608.geojson
+sitemap: false
 ---

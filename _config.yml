@@ -26,6 +26,7 @@ defaults:
 collections:
   features:
     output: true
+    sitemap: false
   routes:
     output: true
 
