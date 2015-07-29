@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: null
 ---
 var mapDef = document.createElement('mapdef');
 var qs = window.location.search.substring(1).split('&');
