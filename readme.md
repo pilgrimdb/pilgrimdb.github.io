@@ -9,6 +9,7 @@ Each route has:
 * a unique alpha id
 * a title
 * one or more branches
+* descriptive text in [Markdown](https://guides.github.com/features/mastering-markdown/) format
 
 Each branch links two or more towns, and has a unique id.
 
@@ -33,5 +34,5 @@ A branch may or may not have mapping. Each mapped branch has one or more section
 
 #### Other files
 
-* `_features/simp.geo` generates a GeoJSON Feature Collection for all the simplified geometries (using `_layouts/fc`), accessed with `/simp.geojson` and used by the overview map
-* `/unmapped.geo` generates a GeoJSON Feature Collection with 1 feature per unmapped branch (using `_layouts/fc`, which uses `_data/places.yaml` to get the appropriate Lon/Lat coordinate for each town); this is accessed with `/unmapped.geojson` and is also used by the overview map
+* `_features/simp.geo` generates a GeoJSON Feature Collection for all the simplified geometries (using `_layouts/fc`), accessed with `/simp.geojson`, and used by the overview map
+* `/unmapped.geo` generates a GeoJSON Feature Collection with 1 feature per unmapped branch (using `_layouts/fc`, which uses `_data/places.yaml` to get the appropriate Lon/Lat coordinate for each town); this is accessed with `/unmapped.geojson`, and is also used by the overview map
