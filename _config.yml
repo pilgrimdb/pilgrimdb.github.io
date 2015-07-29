@@ -22,11 +22,11 @@ defaults:
       type: "features"
     values:
       layout: "feature"
+      sitemap: false
 
 collections:
   features:
     output: true
-    sitemap: false
   routes:
     output: true
 
