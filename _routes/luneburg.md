@@ -1,7 +1,6 @@
 ---
 title: Jakobusweg Lüneburger Heide
 id: luneburg
-permalink: /luneburg.html
 branches:
   -
     branch: 0

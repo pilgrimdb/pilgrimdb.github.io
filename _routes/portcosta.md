@@ -1,7 +1,6 @@
 ---
 title: Camino Portugués de la Costa
 id: portcosta
-permalink: /portcosta.html
 branches:
   -
     branch: 0

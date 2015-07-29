@@ -1,7 +1,6 @@
 ---
 title: Ruta Vadiniense
 id: vadiniense
-permalink: /vadiniense.html
 branches:
   -
     branch: 0

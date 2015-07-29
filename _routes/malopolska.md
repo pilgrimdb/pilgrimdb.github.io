@@ -1,7 +1,6 @@
 ---
 title: Malopolska Droga sw. Jakuba
 id: malopolska
-permalink: /malopolska.html
 branches:
   -
     branch: 0

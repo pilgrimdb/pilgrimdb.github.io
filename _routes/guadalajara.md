@@ -1,7 +1,6 @@
 ---
 title: Camino Alcarreño
 id: guadalajara
-permalink: /guadalajara.html
 branches:
   -
     branch: 0

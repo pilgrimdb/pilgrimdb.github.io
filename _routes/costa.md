@@ -1,7 +1,6 @@
 ---
 title: Camino de la Costa
 id: costa
-permalink: /costa.html
 branches:
   -
     branch: 0

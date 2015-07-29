@@ -1,7 +1,6 @@
 ---
 title: Nuremberg-Ulm
 id: ulm
-permalink: /ulm.html
 branches:
   -
     branch: 0

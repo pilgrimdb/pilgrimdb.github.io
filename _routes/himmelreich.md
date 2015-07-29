@@ -1,7 +1,6 @@
 ---
 title: Himmelreich-Jakobusweg
 id: himmelreich
-permalink: /himmelreich.html
 branches:
   -
     branch: 0

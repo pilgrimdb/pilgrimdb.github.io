@@ -1,7 +1,6 @@
 ---
 title: Voie d'Ardenne
 id: ardennes
-permalink: /ardennes.html
 branches:
   -
     branch: 0

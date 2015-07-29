@@ -1,7 +1,6 @@
 ---
 title: Paderborn-Heidenstrasse
 id: sauer
-permalink: /sauer.html
 branches:
   -
     branch: 0

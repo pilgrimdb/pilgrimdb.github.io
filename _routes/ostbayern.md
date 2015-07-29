@@ -1,7 +1,6 @@
 ---
 title: Ostbayerischer Jakobsweg
 id: ostbayern
-permalink: /ostbayern.html
 branches:
   -
     branch: 0

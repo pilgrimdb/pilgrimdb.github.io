@@ -1,7 +1,6 @@
 ---
 title: Beuroner Jakobsweg
 id: beuron
-permalink: /beuron.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Rheinhessischer Jakobs-Pilgerweg
 id: rheinhessen
-permalink: /rheinhessen.html
 branches:
   -
     branch: 0

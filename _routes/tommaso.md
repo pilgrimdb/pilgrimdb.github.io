@@ -1,7 +1,6 @@
 ---
 title: Cammino di San Tommaso
 id: tommaso
-permalink: /tommaso.html
 branches:
   -
     branch: 0

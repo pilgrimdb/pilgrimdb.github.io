@@ -1,7 +1,6 @@
 ---
 title: Ruta del Ebro
 id: ebro
-permalink: /ebro.html
 branches:
   -
     branch: 0

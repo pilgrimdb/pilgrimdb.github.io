@@ -1,7 +1,6 @@
 ---
 title: Bonifatiusroute
 id: bonifatius
-permalink: /bonifatius.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Lyon-Le Puy
 id: lyon
-permalink: /lyon.html
 branches:
   -
     branch: 0

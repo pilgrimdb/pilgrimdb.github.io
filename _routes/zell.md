@@ -1,7 +1,6 @@
 ---
 title: Worms-Landstuhl
 id: zell
-permalink: /zell.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: St James Way
 id: james
-permalink: /james.html
 branches:
   -
     branch: 0

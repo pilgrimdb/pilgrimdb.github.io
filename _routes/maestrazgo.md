@@ -1,7 +1,6 @@
 ---
 title: Camino del Maestrazgo Bajo Aragón
 id: maestrazgo
-permalink: /maestrazgo.html
 branches:
   -
     branch: 0

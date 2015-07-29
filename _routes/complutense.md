@@ -1,7 +1,6 @@
 ---
 title: Camino de Santiago Complutense
 id: complutense
-permalink: /complutense.html
 branches:
   -
     branch: 0

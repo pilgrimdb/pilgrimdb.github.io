@@ -1,7 +1,6 @@
 ---
 title: Camì Gironí de Sant Jaume
 id: girona
-permalink: /girona.html
 branches:
   -
     branch: 0

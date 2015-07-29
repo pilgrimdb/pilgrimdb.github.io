@@ -1,7 +1,6 @@
 ---
 title: Saintes-Royan
 id: royan
-permalink: /royan.html
 branches:
   -
     branch: 0

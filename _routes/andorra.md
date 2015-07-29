@@ -1,7 +1,6 @@
 ---
 title: Camino del Bajo Aragón-Andorra
 id: andorra
-permalink: /andorra.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Baltisch-Mitteldeutscher Jakobsweg
 id: mecklenburg
-permalink: /mecklenburg.html
 branches:
   -
     branch: 0

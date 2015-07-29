@@ -1,7 +1,6 @@
 ---
 title: Via Mosana
 id: mosana
-permalink: /mosana.html
 branches:
   -
     branch: 0

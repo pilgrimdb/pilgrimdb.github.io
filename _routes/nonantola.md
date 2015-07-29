@@ -1,7 +1,6 @@
 ---
 title: Via Romea Nonantolana
 id: nonantola
-permalink: /nonantola.html
 branches:
   -
     branch: 0

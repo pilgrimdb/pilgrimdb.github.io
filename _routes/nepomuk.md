@@ -1,7 +1,6 @@
 ---
 title: Prague-Eschlkam
 id: nepomuk
-permalink: /nepomuk.html
 branches:
   -
     branch: 0

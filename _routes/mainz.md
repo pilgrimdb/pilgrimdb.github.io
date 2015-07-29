@@ -1,7 +1,6 @@
 ---
 title: Via Mogontiacum
 id: mainz
-permalink: /mainz.html
 branches:
   -
     branch: 0

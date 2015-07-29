@@ -1,7 +1,6 @@
 ---
 title: Via Gebennensis GR65
 id: geneva
-permalink: /geneva.html
 branches:
   -
     branch: 0

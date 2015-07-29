@@ -1,7 +1,6 @@
 ---
 title: Via Romea Stadensis
 id: stade
-permalink: /stade.html
 branches:
   -
     branch: 0

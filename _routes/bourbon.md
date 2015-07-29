@@ -1,7 +1,6 @@
 ---
 title: Voie du Bourbonnais GR300
 id: bourbon
-permalink: /bourbon.html
 branches:
   -
     branch: 0

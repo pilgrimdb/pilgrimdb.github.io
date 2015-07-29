@@ -1,7 +1,6 @@
 ---
 title: Österreichischer Jakobsweg
 id: austria
-permalink: /austria.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Zachodniopomorska Droga
 id: stettin
-permalink: /stettin.html
 branches:
   -
     branch: 0

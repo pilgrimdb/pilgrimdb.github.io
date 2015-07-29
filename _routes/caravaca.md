@@ -1,7 +1,6 @@
 ---
 title: Caminos de la Vera Cruz
 id: caravaca
-permalink: /caravaca.html
 branches:
   -
     branch: 0

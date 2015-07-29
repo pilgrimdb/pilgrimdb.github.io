@@ -1,7 +1,6 @@
 ---
 title: St Gallerweg
 id: galler
-permalink: /galler.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Ruta del Mar Menor
 id: marmenor
-permalink: /marmenor.html
 branches:
   -
     branch: 0

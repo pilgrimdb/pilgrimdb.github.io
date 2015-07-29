@@ -1,7 +1,6 @@
 ---
 title: Strada Romea Rimini-Sansepolcro-Orvieto
 id: rimini
-permalink: /rimini.html
 branches:
   -
     branch: 0

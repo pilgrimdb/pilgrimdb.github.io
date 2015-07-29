@@ -1,7 +1,6 @@
 ---
 title: Cammino di San Benedetto
 id: benedetto
-permalink: /benedetto.html
 branches:
   -
     branch: 0

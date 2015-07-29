@@ -1,7 +1,6 @@
 ---
 title: Jacobsweg Thuredrecht
 id: thuredrecht
-permalink: /thuredrecht.html
 branches:
   -
     branch: 0

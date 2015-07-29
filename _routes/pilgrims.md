@@ -1,7 +1,6 @@
 ---
 title: Pilgrims Way
 id: pilgrims
-permalink: /pilgrims.html
 branches:
   -
     branch: 0

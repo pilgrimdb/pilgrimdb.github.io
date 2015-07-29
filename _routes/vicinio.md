@@ -1,7 +1,6 @@
 ---
 title: Cammino di San Vicinio
 id: vicinio
-permalink: /vicinio.html
 branches:
   -
     branch: 0

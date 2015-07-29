@@ -1,7 +1,6 @@
 ---
 title: Camino Aragonés
 id: aragones
-permalink: /aragones.html
 branches:
   -
     branch: 0

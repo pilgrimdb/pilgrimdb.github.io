@@ -1,7 +1,6 @@
 ---
 title: Camino Sanabrés
 id: sanabres
-permalink: /sanabres.html
 branches:
   -
     branch: 0

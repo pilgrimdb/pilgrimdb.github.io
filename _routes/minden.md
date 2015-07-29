@@ -1,7 +1,6 @@
 ---
 title: Minden-Erwitte
 id: minden
-permalink: /minden.html
 branches:
   -
     branch: 0

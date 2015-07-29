@@ -1,7 +1,6 @@
 ---
 title: Mainz-Bingen
 id: rheingau
-permalink: /rheingau.html
 branches:
   -
     branch: 0

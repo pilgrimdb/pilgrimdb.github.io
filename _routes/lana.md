@@ -1,7 +1,6 @@
 ---
 title: Ruta de la Lana
 id: lana
-permalink: /lana.html
 branches:
   -
     branch: 0

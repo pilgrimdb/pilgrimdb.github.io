@@ -1,7 +1,6 @@
 ---
 title: Sacro Corporale
 id: corporale
-permalink: /corporale.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Cammino di Sant'Agostino
 id: agostino
-permalink: /agostino.html
 branches:
   -
     branch: 0

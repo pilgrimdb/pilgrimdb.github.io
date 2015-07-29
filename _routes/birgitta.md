@@ -1,7 +1,6 @@
 ---
 title: Birgittaweg
 id: birgitta
-permalink: /birgitta.html
 branches:
   -
     branch: 0

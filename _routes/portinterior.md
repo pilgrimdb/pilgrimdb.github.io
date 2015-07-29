@@ -1,7 +1,6 @@
 ---
 title: Caminho Português do Interior
 id: portinterior
-permalink: /portinterior.html
 branches:
   -
     branch: 0

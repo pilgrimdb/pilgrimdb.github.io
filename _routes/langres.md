@@ -1,7 +1,6 @@
 ---
 title: Metz-Dijon-Cluny
 id: langres
-permalink: /langres.html
 branches:
   -
     branch: 0

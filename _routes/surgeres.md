@@ -1,7 +1,6 @@
 ---
 title: Surgères-Saintes
 id: surgeres
-permalink: /surgeres.html
 branches:
   -
     branch: 0

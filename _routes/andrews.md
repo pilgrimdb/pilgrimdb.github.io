@@ -1,7 +1,6 @@
 ---
 title: Way of St Andrews
 id: andrews
-permalink: /andrews.html
 branches:
   -
     branch: 0

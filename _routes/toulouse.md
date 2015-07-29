@@ -1,7 +1,6 @@
 ---
 title: Via Tolosana GR653
 id: toulouse
-permalink: /toulouse.html
 branches:
   -
     branch: 0

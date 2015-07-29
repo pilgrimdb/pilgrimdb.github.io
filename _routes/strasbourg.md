@@ -1,7 +1,6 @@
 ---
 title: Alsace-Cluny
 id: strasbourg
-permalink: /strasbourg.html
 branches:
   -
     branch: 0

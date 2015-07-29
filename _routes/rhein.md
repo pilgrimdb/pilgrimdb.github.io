@@ -1,7 +1,6 @@
 ---
 title: Linksrheinischer Jakobsweg
 id: rhein
-permalink: /rhein.html
 branches:
   -
     branch: 0

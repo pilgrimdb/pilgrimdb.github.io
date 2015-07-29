@@ -1,7 +1,6 @@
 ---
 title: Nive valley
 id: nive
-permalink: /nive.html
 branches:
   -
     branch: 0

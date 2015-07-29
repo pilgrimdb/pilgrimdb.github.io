@@ -1,7 +1,6 @@
 ---
 title: Via di San Pellegrino
 id: pellegrino
-permalink: /pellegrino.html
 branches:
   -
     branch: 0

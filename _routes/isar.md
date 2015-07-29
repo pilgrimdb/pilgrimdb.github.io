@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Isar-Loisach-Inn
 id: isar
-permalink: /isar.html
 branches:
   -
     branch: 0

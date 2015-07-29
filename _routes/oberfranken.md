@@ -1,7 +1,6 @@
 ---
 title: Oberfränkischer Jakobsweg
 id: oberfranken
-permalink: /oberfranken.html
 branches:
   -
     branch: 0

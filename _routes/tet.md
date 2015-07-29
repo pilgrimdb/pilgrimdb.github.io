@@ -1,7 +1,6 @@
 ---
 title: Têt valley
 id: tet
-permalink: /tet.html
 branches:
   -
     branch: 0

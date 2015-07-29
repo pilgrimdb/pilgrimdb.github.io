@@ -1,7 +1,6 @@
 ---
 title: St Jabikspaad
 id: jabik
-permalink: /jabik.html
 branches:
   -
     branch: 0

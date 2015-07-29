@@ -1,7 +1,6 @@
 ---
 title: Two Saints Way
 id: 2saints
-permalink: /2saints.html
 branches:
   -
     branch: 0

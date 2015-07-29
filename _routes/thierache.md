@@ -1,7 +1,6 @@
 ---
 title: Via Thiérache
 id: thierache
-permalink: /thierache.html
 branches:
   -
     branch: 0

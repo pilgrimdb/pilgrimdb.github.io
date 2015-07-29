@@ -1,7 +1,6 @@
 ---
 title: Camino de San Vicente Mártir
 id: vicente
-permalink: /vicente.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Camino del Sur
 id: sur
-permalink: /sur.html
 branches:
   -
     branch: 0

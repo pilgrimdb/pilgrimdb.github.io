@@ -1,7 +1,6 @@
 ---
 title: Camino de San Andrés de Teixido
 id: teixido
-permalink: /teixido.html
 branches:
   -
     branch: 0

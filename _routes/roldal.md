@@ -1,7 +1,6 @@
 ---
 title: Røldalsvegene
 id: roldal
-permalink: /roldal.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Limburgica
 id: limburgica
-permalink: /limburgica.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Podiensis GR65
 id: puy
-permalink: /puy.html
 branches:
   -
     branch: 0

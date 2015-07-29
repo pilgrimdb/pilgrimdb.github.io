@@ -1,7 +1,6 @@
 ---
 title: Montserrat-San Juan de la Peña
 id: huesca
-permalink: /huesca.html
 branches:
   -
     branch: 0

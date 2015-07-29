@@ -1,7 +1,6 @@
 ---
 title: Jakobswege westlich der Oder
 id: brandenburg
-permalink: /brandenburg.html
 branches:
   -
     branch: 0

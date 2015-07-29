@@ -1,7 +1,6 @@
 ---
 title: Pfälzer Jakobsweg
 id: pfalz
-permalink: /pfalz.html
 branches:
   -
     branch: 0

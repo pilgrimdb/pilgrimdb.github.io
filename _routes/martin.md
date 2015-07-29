@@ -1,7 +1,6 @@
 ---
 title: Chemins de St Martin de Tours
 id: martin
-permalink: /martin.html
 branches:
   -
     branch: 0

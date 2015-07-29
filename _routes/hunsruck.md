@@ -1,7 +1,6 @@
 ---
 title: Hunsrücker Jakobsweg
 id: hunsruck
-permalink: /hunsruck.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Lubelska Droga
 id: lubelska
-permalink: /lubelska.html
 branches:
   -
     branch: 0

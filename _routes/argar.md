@@ -1,7 +1,6 @@
 ---
 title: Camino del Argar
 id: argar
-permalink: /argar.html
 branches:
   -
     branch: 0

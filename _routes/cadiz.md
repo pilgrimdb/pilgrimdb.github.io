@@ -1,7 +1,6 @@
 ---
 title: Cadiz-Seville
 id: cadiz
-permalink: /cadiz.html
 branches:
   -
     branch: 0

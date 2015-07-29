@@ -1,7 +1,6 @@
 ---
 title: Col d'Ares
 id: ares
-permalink: /ares.html
 branches:
   -
     branch: 0

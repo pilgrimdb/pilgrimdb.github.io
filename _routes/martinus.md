@@ -1,7 +1,6 @@
 ---
 title: Martinuswege
 id: martinus
-permalink: /martinus.html
 branches:
   -
     branch: 0

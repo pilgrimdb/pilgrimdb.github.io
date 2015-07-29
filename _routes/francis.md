@@ -1,7 +1,6 @@
 ---
 title: Sentieros Franciscanos
 id: francis
-permalink: /francis.html
 branches:
   -
     branch: 0

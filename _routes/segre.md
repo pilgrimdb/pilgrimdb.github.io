@@ -1,7 +1,6 @@
 ---
 title: Camí del Segre
 id: segre
-permalink: /segre.html
 branches:
   -
     branch: 0

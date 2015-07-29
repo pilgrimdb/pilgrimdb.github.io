@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Graubünden
 id: graubunden
-permalink: /graubunden.html
 branches:
   -
     branch: 0

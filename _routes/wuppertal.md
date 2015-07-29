@@ -1,7 +1,6 @@
 ---
 title: Wuppertal-Cologne-Aachen
 id: wuppertal
-permalink: /wuppertal.html
 branches:
   -
     branch: 0

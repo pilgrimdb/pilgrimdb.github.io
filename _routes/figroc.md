@@ -1,7 +1,6 @@
 ---
 title: GR6 Figeac-Rocamadour
 id: figroc
-permalink: /figroc.html
 branches:
   -
     branch: 0

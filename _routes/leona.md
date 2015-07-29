@@ -1,7 +1,6 @@
 ---
 title: Via Romea Leona
 id: leona
-permalink: /leona.html
 branches:
   -
     branch: 0

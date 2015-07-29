@@ -1,7 +1,6 @@
 ---
 title: Jacobsweg Amsvorde
 id: amsvorde
-permalink: /amsvorde.html
 branches:
   -
     branch: 0

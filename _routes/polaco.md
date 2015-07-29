@@ -1,7 +1,6 @@
 ---
 title: Camino Polaco
 id: polaco
-permalink: /polaco.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Brabantica
 id: brabantica
-permalink: /brabantica.html
 branches:
   -
     branch: 0

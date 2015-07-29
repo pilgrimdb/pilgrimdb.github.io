@@ -1,7 +1,6 @@
 ---
 title: Via Francigena Appia Pedemontana
 id: pedemontana
-permalink: /pedemontana.html
 branches:
   -
     branch: 0

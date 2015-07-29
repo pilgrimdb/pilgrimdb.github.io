@@ -1,7 +1,6 @@
 ---
 title: Szent Jakab-út
 id: hungary
-permalink: /hungary.html
 branches:
   -
     branch: 0

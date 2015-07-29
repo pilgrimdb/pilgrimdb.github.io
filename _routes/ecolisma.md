@@ -1,7 +1,6 @@
 ---
 title: Via Ecolisma
 id: ecolisma
-permalink: /ecolisma.html
 branches:
   -
     branch: 0

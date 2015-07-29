@@ -1,7 +1,6 @@
 ---
 title: Neckar-Baar-Jakobusweg
 id: neckar
-permalink: /neckar.html
 branches:
   -
     branch: 0

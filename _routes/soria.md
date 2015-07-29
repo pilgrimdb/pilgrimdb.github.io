@@ -1,7 +1,6 @@
 ---
 title: Camino Jacobeo Castellano Aragonés
 id: soria
-permalink: /soria.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Weinviertel
 id: weinviertel
-permalink: /weinviertel.html
 branches:
   -
     branch: 0

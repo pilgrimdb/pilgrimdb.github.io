@@ -1,7 +1,6 @@
 ---
 title: Santiago-Finisterre/Fisterra and Muxía
 id: fisterra
-permalink: /fisterra.html
 branches:
   -
     branch: 0

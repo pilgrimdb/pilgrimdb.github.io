@@ -1,7 +1,6 @@
 ---
 title: Con le Ali ai Piedi
 id: ali
-permalink: /ali.html
 branches:
   -
     branch: 0

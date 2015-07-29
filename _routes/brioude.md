@@ -1,7 +1,6 @@
 ---
 title: Clermont Ferrand-Le Puy
 id: brioude
-permalink: /brioude.html
 branches:
   -
     branch: 0

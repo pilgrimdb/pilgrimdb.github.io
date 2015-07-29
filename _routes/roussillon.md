@@ -1,7 +1,6 @@
 ---
 title: Voie Catalane - Roussillon
 id: roussillon
-permalink: /roussillon.html
 branches:
   -
     branch: 0

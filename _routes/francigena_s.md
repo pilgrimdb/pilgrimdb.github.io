@@ -1,7 +1,6 @@
 ---
 title: Via Francigena del Sud
 id: francigena_s
-permalink: /francigena_s.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Camino de Requena
 id: requena
-permalink: /requena.html
 branches:
   -
     branch: 0

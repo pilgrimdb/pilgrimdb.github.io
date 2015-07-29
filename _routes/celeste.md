@@ -1,7 +1,6 @@
 ---
 title: Cammino Celeste
 id: celeste
-permalink: /celeste.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Berlin-Wilsnack
 id: wilsnack
-permalink: /wilsnack.html
 branches:
   -
     branch: 0

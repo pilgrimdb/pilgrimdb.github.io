@@ -1,7 +1,6 @@
 ---
 title: Camino del Interiór or Ruta del Túnel
 id: tunel
-permalink: /tunel.html
 branches:
   -
     branch: 0

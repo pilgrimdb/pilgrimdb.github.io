@@ -1,7 +1,6 @@
 ---
 title: Camì Vendrellenc
 id: vendrell
-permalink: /vendrell.html
 branches:
   -
     branch: 0

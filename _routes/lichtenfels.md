@@ -1,7 +1,6 @@
 ---
 title: Erfurt-Lichtenfels-Bamberg-Nuremberg
 id: lichtenfels
-permalink: /lichtenfels.html
 branches:
   -
     branch: 0

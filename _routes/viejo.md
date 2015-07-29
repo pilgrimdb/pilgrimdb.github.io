@@ -1,7 +1,6 @@
 ---
 title: Camino Viejo
 id: viejo
-permalink: /viejo.html
 branches:
   -
     branch: 0

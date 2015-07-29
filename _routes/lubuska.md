@@ -1,7 +1,6 @@
 ---
 title: Lubuska Droga
 id: lubuska
-permalink: /lubuska.html
 branches:
   -
     branch: 0

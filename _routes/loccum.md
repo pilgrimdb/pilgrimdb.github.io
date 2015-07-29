@@ -1,7 +1,6 @@
 ---
 title: Pilgerweg Loccum-Volkenroda
 id: loccum
-permalink: /loccum.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Voie Littorale
 id: littorale
-permalink: /littorale.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Mt St Michel-Rennes-Nantes
 id: rennes
-permalink: /rennes.html
 branches:
   -
     branch: 0

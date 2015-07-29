@@ -1,7 +1,6 @@
 ---
 title: Camino Manchego
 id: manchego
-permalink: /manchego.html
 branches:
   -
     branch: 0

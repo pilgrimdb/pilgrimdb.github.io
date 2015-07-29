@@ -1,7 +1,6 @@
 ---
 title: Via Monastica
 id: monastica
-permalink: /monastica.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Pilgrims Trail
 id: hants
-permalink: /hants.html
 branches:
   -
     branch: 0

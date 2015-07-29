@@ -1,7 +1,6 @@
 ---
 title: Luxemburgischer Jakobsweg
 id: luxemburg
-permalink: /luxemburg.html
 branches:
   -
     branch: 0

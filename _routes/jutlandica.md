@@ -1,7 +1,6 @@
 ---
 title: Via Jutlandica
 id: jutlandica
-permalink: /jutlandica.html
 branches:
   -
     branch: 0

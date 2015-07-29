@@ -1,7 +1,6 @@
 ---
 title: Camino Portugués
 id: portugues
-permalink: /portugues.html
 branches:
   -
     branch: 0

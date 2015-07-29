@@ -1,7 +1,6 @@
 ---
 title: Rhein-Maas
 id: venlo
-permalink: /venlo.html
 branches:
   -
     branch: 0

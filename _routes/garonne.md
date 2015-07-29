@@ -1,7 +1,6 @@
 ---
 title: Garonne valley
 id: garonne
-permalink: /garonne.html
 branches:
   -
     branch: 0

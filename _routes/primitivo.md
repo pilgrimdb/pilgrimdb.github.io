@@ -1,7 +1,6 @@
 ---
 title: Camino Primitivo
 id: primitivo
-permalink: /primitivo.html
 branches:
   -
     branch: 0

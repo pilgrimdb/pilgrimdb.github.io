@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg von der Fulda an den Main
 id: gelnhausen
-permalink: /gelnhausen.html
 branches:
   -
     branch: 0

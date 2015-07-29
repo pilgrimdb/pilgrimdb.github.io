@@ -1,7 +1,6 @@
 ---
 title: Barcelona-Montserrat
 id: barcelona
-permalink: /barcelona.html
 branches:
   -
     branch: 0

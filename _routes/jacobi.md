@@ -1,7 +1,6 @@
 ---
 title: Via Jacobi
 id: jacobi
-permalink: /jacobi.html
 branches:
   -
     branch: 0

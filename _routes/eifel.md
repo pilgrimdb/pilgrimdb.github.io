@@ -1,7 +1,6 @@
 ---
 title: Eifel-Camino
 id: eifel
-permalink: /eifel.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Saarland-Moselle
 id: saar
-permalink: /saar.html
 branches:
   -
     branch: 0

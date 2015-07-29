@@ -1,7 +1,6 @@
 ---
 title: North Wales Pilgrim’s Way
 id: nwales
-permalink: /nwales.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: St Jakobus Pilgerweg Sachsen-Anhalt
 id: sachsenanhalt
-permalink: /sachsenanhalt.html
 branches:
   -
     branch: 0

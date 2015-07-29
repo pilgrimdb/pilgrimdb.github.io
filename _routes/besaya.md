@@ -1,7 +1,6 @@
 ---
 title: Camino de Besaya/Pisuerga
 id: besaya
-permalink: /besaya.html
 branches:
   -
     branch: 0

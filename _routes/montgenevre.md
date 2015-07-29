@@ -1,7 +1,6 @@
 ---
 title: Via Domitia GR653D
 id: montgenevre
-permalink: /montgenevre.html
 branches:
   -
     branch: 0

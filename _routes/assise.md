@@ -1,7 +1,6 @@
 ---
 title: Chemins de Paix de Vézelay à Assise
 id: assise
-permalink: /assise.html
 branches:
   -
     branch: 0

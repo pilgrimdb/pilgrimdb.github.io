@@ -1,7 +1,6 @@
 ---
 title: S Austria
 id: graz
-permalink: /graz.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Camino de Madrid
 id: madrid
-permalink: /madrid.html
 branches:
   -
     branch: 0

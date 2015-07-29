@@ -1,7 +1,6 @@
 ---
 title: Bayerisch-Schwäbischer Jakobusweg
 id: augsburg
-permalink: /augsburg.html
 branches:
   -
     branch: 0

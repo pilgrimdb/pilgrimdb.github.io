@@ -1,7 +1,6 @@
 ---
 title: Thurgauer Klosterweg
 id: thurgau
-permalink: /thurgau.html
 branches:
   -
     branch: 0

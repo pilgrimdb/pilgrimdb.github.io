@@ -1,7 +1,6 @@
 ---
 title: Cammino Jacopeo d'Anaunia
 id: anaunia
-permalink: /anaunia.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Camino Francés
 id: frances
-permalink: /frances.html
 branches:
   -
     branch: 0

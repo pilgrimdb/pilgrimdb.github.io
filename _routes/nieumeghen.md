@@ -1,7 +1,6 @@
 ---
 title: Jacobsweg Nieumeghen
 id: nieumeghen
-permalink: /nieumeghen.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Cammino della Luce
 id: luce
-permalink: /luce.html
 branches:
   -
     branch: 0

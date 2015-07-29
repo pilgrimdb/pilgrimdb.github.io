@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Bozen-Neustift
 id: eisack
-permalink: /eisack.html
 branches:
   -
     branch: 0

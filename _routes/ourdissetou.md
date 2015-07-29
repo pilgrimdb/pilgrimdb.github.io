@@ -1,7 +1,6 @@
 ---
 title: Port d'Ourdissetou GR105
 id: ourdissetou
-permalink: /ourdissetou.html
 branches:
   -
     branch: 0

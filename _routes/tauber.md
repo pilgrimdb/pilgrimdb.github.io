@@ -1,7 +1,6 @@
 ---
 title: Jakobswanderweg Odenwald-Main-Taubertal
 id: tauber
-permalink: /tauber.html
 branches:
   -
     branch: 0

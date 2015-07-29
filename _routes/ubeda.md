@@ -1,7 +1,6 @@
 ---
 title: Camino Mozárabe por Ubeda
 id: ubeda
-permalink: /ubeda.html
 branches:
   -
     branch: 0

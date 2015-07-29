@@ -1,7 +1,6 @@
 ---
 title: Via Francigena (CH)
 id: francigena_ch
-permalink: /francigena_ch.html
 branches:
   -
     branch: 0

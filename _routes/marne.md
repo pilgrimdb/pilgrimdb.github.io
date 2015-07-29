@@ -1,7 +1,6 @@
 ---
 title: Reims-Paris
 id: marne
-permalink: /marne.html
 branches:
   -
     branch: 0

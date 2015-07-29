@@ -1,7 +1,6 @@
 ---
 title: Kinzigtäler Jakobusweg
 id: kinzig
-permalink: /kinzig.html
 branches:
   -
     branch: 0

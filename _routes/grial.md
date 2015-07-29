@@ -1,7 +1,6 @@
 ---
 title: Camino del Santo Grial
 id: grial
-permalink: /grial.html
 branches:
   -
     branch: 0

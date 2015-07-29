@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Vogtland
 id: vogtland
-permalink: /vogtland.html
 branches:
   -
     branch: 0

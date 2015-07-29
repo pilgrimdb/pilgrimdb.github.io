@@ -1,7 +1,6 @@
 ---
 title: Berlin-Leipzig
 id: wittenberg
-permalink: /wittenberg.html
 branches:
   -
     branch: 0

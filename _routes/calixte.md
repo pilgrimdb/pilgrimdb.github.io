@@ -1,7 +1,6 @@
 ---
 title: Chemin Calixte II
 id: calixte
-permalink: /calixte.html
 branches:
   -
     branch: 0

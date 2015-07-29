@@ -1,7 +1,6 @@
 ---
 title: Mainz-Worms
 id: worms
-permalink: /worms.html
 branches:
   -
     branch: 0

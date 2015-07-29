@@ -1,7 +1,6 @@
 ---
 title: Jacobsweg Die Haghe
 id: haghe
-permalink: /haghe.html
 branches:
   -
     branch: 0

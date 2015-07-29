@@ -1,7 +1,6 @@
 ---
 title: Nidaros routes
 id: olav
-permalink: /olav.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Appenzellerweg
 id: appenzell
-permalink: /appenzell.html
 branches:
   -
     branch: 0

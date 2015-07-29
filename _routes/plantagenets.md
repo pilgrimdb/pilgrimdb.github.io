@@ -1,7 +1,6 @@
 ---
 title: Voie des Plantagenêts
 id: plantagenets
-permalink: /plantagenets.html
 branches:
   -
     branch: 0

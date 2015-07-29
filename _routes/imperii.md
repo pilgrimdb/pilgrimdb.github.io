@@ -1,7 +1,6 @@
 ---
 title: Via Imperii
 id: imperii
-permalink: /imperii.html
 branches:
   -
     branch: 0

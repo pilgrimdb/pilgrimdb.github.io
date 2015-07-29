@@ -1,7 +1,6 @@
 ---
 title: Col des Moines
 id: moines
-permalink: /moines.html
 branches:
   -
     branch: 0

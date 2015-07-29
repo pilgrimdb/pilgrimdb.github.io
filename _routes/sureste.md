@@ -1,7 +1,6 @@
 ---
 title: Camino del Sureste
 id: sureste
-permalink: /sureste.html
 branches:
   -
     branch: 0

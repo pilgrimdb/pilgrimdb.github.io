@@ -1,7 +1,6 @@
 ---
 title: Göppinger Jakobsweg
 id: goppingen
-permalink: /goppingen.html
 branches:
   -
     branch: 0

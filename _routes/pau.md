@@ -1,7 +1,6 @@
 ---
 title: Col de Pau
 id: pau
-permalink: /pau.html
 branches:
   -
     branch: 0

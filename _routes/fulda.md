@@ -1,7 +1,6 @@
 ---
 title: Fuldaer Land Jakobsweg
 id: fulda
-permalink: /fulda.html
 branches:
   -
     branch: 0

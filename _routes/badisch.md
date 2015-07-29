@@ -1,7 +1,6 @@
 ---
 title: Badischer Jakobusweg
 id: badisch
-permalink: /badisch.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Mittelfränkische Jakobsweg
 id: mittelfranken
-permalink: /mittelfranken.html
 branches:
   -
     branch: 0

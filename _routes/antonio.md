@@ -1,7 +1,6 @@
 ---
 title: Cammino di Sant'Antonio
 id: antonio
-permalink: /antonio.html
 branches:
   -
     branch: 0

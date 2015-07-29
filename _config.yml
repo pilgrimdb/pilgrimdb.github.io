@@ -27,8 +27,10 @@ defaults:
 collections:
   features:
     output: true
+    permalink: /features/:path.geojson
   routes:
     output: true
+    permalink: /:path:output_ext
 
 # FIXME these keys are registered to Peter Robins; should be changed
 apikeys:

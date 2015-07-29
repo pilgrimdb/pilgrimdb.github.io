@@ -1,7 +1,6 @@
 ---
 title: Via Nova
 id: vianova
-permalink: /vianova.html
 branches:
   -
     branch: 0

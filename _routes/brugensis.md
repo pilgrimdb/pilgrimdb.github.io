@@ -1,7 +1,6 @@
 ---
 title: Via Brugensis
 id: brugensis
-permalink: /brugensis.html
 branches:
   -
     branch: 0

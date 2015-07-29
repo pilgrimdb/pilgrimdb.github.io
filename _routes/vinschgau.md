@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg im Vinschgau
 id: vinschgau
-permalink: /vinschgau.html
 branches:
   -
     branch: 0

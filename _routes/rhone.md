@@ -1,7 +1,6 @@
 ---
 title: Rhône valley
 id: rhone
-permalink: /rhone.html
 branches:
   -
     branch: 0

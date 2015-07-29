@@ -1,7 +1,6 @@
 ---
 title: Pelgrimspad
 id: pelgrimspad
-permalink: /pelgrimspad.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Zittauer Jakobsweg
 id: zittau
-permalink: /zittau.html
 branches:
   -
     branch: 0

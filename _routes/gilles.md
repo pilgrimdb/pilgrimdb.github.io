@@ -1,7 +1,6 @@
 ---
 title: Le Puy-St Gilles GR700
 id: gilles
-permalink: /gilles.html
 branches:
   -
     branch: 0

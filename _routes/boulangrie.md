@@ -1,7 +1,6 @@
 ---
 title: Itinéraire Saint-Jacques en Boulangrie
 id: boulangrie
-permalink: /boulangrie.html
 branches:
   -
     branch: 0

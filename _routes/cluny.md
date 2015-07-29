@@ -1,7 +1,6 @@
 ---
 title: Cluny-Le Puy
 id: cluny
-permalink: /cluny.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Grado - Aquileiese
 id: grado
-permalink: /grado.html
 branches:
   -
     branch: 0

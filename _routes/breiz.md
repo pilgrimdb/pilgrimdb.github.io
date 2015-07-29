@@ -1,7 +1,6 @@
 ---
 title: Tro-Breiz - Tour of Brittany
 id: breiz
-permalink: /breiz.html
 branches:
   -
     branch: 0

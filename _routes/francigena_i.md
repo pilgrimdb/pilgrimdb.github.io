@@ -1,7 +1,6 @@
 ---
 title: Via Francigena (Italy)
 id: francigena_i
-permalink: /francigena_i.html
 branches:
   -
     branch: 0

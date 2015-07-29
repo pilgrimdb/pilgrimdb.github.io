@@ -1,7 +1,6 @@
 ---
 title: St Quentin-Paris GR655
 id: noyon
-permalink: /noyon.html
 branches:
   -
     branch: 0

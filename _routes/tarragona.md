@@ -1,7 +1,6 @@
 ---
 title: Cami de Sant Jaume (Tarragona)
 id: tarragona
-permalink: /tarragona.html
 branches:
   -
     branch: 0

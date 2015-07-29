@@ -1,7 +1,6 @@
 ---
 title: Vadstena routes
 id: bridget
-permalink: /bridget.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Pilgrim Paths (Ireland)
 id: ireland
-permalink: /ireland.html
 branches:
   -
     branch: 0

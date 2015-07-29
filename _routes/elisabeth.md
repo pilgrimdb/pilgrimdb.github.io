@@ -1,7 +1,6 @@
 ---
 title: Elisabethpfad
 id: elisabeth
-permalink: /elisabeth.html
 branches:
   -
     branch: 0

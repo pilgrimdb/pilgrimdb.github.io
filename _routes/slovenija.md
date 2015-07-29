@@ -1,7 +1,6 @@
 ---
 title: Jakobova Pot Slovenija
 id: slovenija
-permalink: /slovenija.html
 branches:
   -
     branch: 0

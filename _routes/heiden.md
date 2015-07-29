@@ -1,7 +1,6 @@
 ---
 title: Heidenstrasse
 id: heiden
-permalink: /heiden.html
 branches:
   -
     branch: 0

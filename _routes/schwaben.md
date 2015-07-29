@@ -1,7 +1,6 @@
 ---
 title: Schwabenweg
 id: schwaben
-permalink: /schwaben.html
 branches:
   -
     branch: 0

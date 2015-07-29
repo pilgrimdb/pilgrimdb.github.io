@@ -1,7 +1,6 @@
 ---
 title: Camino Mozárabe/Via de la Plata
 id: mozarabe
-permalink: /mozarabe.html
 branches:
   -
     branch: 0

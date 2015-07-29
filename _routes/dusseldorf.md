@@ -1,7 +1,6 @@
 ---
 title: Dortmund-Aachen
 id: dusseldorf
-permalink: /dusseldorf.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Perl-Metz-Clairvaux-Vézelay
 id: metz
-permalink: /metz.html
 branches:
   -
     branch: 0

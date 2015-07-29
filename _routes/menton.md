@@ -1,7 +1,6 @@
 ---
 title: Via Aurelia GR653A
 id: menton
-permalink: /menton.html
 branches:
   -
     branch: 0

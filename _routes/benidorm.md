@@ -1,7 +1,6 @@
 ---
 title: Camino de Benidorm
 id: benidorm
-permalink: /benidorm.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Bielefeld-Rhein
 id: warendorf
-permalink: /warendorf.html
 branches:
   -
     branch: 0

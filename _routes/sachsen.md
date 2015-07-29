@@ -1,7 +1,6 @@
 ---
 title: Sächsischer Jakobsweg
 id: sachsen
-permalink: /sachsen.html
 branches:
   -
     branch: 0

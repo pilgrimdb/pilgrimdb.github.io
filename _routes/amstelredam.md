@@ -1,7 +1,6 @@
 ---
 title: Jacobsweg Amstelredam
 id: amstelredam
-permalink: /amstelredam.html
 branches:
   -
     branch: 0

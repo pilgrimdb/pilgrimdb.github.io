@@ -1,7 +1,6 @@
 ---
 title: Via Francigena di San Francesco
 id: vfsf
-permalink: /vfsf.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Mariazell routes
 id: mariazell
-permalink: /mariazell.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Scaldea
 id: scaldea
-permalink: /scaldea.html
 branches:
   -
     branch: 0

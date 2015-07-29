@@ -1,7 +1,6 @@
 ---
 title: Bingen-Saarbrücken
 id: wendel
-permalink: /wendel.html
 branches:
   -
     branch: 0

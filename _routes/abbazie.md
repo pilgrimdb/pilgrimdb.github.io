@@ -1,7 +1,6 @@
 ---
 title: Cammino delle Abbazie
 id: abbazie
-permalink: /abbazie.html
 branches:
   -
     branch: 0

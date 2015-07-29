@@ -1,7 +1,6 @@
 ---
 title: Camino de Levante
 id: levante
-permalink: /levante.html
 branches:
   -
     branch: 0

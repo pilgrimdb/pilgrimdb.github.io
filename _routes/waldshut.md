@@ -1,7 +1,6 @@
 ---
 title: Hüfingen-Waldshut-Basel
 id: waldshut
-permalink: /waldshut.html
 branches:
   -
     branch: 0

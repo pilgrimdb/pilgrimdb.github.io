@@ -1,7 +1,6 @@
 ---
 title: Verso il Monte dell'Angelo
 id: iubilantes
-permalink: /iubilantes.html
 branches:
   -
     branch: 0

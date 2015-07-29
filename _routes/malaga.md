@@ -1,7 +1,6 @@
 ---
 title: Camino Mozárabe de Málaga
 id: malaga
-permalink: /malaga.html
 branches:
   -
     branch: 0

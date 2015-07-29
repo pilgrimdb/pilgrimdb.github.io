@@ -1,7 +1,6 @@
 ---
 title: Rocroi-Vézelay
 id: reims
-permalink: /reims.html
 branches:
   -
     branch: 0

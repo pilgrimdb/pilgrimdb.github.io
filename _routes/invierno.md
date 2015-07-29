@@ -1,7 +1,6 @@
 ---
 title: Camino de Invierno or Camino Sur
 id: invierno
-permalink: /invierno.html
 branches:
   -
     branch: 0

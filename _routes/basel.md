@@ -1,7 +1,6 @@
 ---
 title: Basel-Belfort
 id: basel
-permalink: /basel.html
 branches:
   -
     branch: 0

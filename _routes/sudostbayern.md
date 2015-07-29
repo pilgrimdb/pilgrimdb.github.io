@@ -1,7 +1,6 @@
 ---
 title: Südostbayerischer Jakobsweg
 id: sudostbayern
-permalink: /sudostbayern.html
 branches:
   -
     branch: 0

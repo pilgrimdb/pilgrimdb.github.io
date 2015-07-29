@@ -1,7 +1,6 @@
 ---
 title: Hallertauer Jakobsweg
 id: hallertau
-permalink: /hallertau.html
 branches:
   -
     branch: 0

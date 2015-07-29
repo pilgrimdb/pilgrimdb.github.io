@@ -1,7 +1,6 @@
 ---
 title: Wartburg-Marburg-Cologne
 id: marburg
-permalink: /marburg.html
 branches:
   -
     branch: 0

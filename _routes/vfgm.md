@@ -1,7 +1,6 @@
 ---
 title: Via Francigena della Giovane Montagna
 id: vfgm
-permalink: /vfgm.html
 branches:
   -
     branch: a

@@ -1,7 +1,6 @@
 ---
 title: Voie de Lourdes
 id: lourdes
-permalink: /lourdes.html
 branches:
   -
     branch: 0

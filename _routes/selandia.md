@@ -1,7 +1,6 @@
 ---
 title: Via Selandia
 id: selandia
-permalink: /selandia.html
 branches:
   -
     branch: 0

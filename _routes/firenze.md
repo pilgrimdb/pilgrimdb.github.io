@@ -1,7 +1,6 @@
 ---
 title: Vie Romee Fiorentine
 id: firenze
-permalink: /firenze.html
 branches:
   -
     branch: 0

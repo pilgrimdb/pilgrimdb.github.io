@@ -1,7 +1,6 @@
 ---
 title: Hemma Pilgerweg
 id: hemma
-permalink: /hemma.html
 branches:
   -
     branch: 0

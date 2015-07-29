@@ -1,7 +1,6 @@
 ---
 title: Conques-Toulouse
 id: conques
-permalink: /conques.html
 branches:
   -
     branch: 0

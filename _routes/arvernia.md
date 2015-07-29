@@ -1,7 +1,6 @@
 ---
 title: Via Arvernia/Arverna
 id: arvernia
-permalink: /arvernia.html
 branches:
   -
     branch: 0

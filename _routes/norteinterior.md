@@ -1,7 +1,6 @@
 ---
 title: Camino Norte Interior
 id: norteinterior
-permalink: /norteinterior.html
 branches:
   -
     branch: 0

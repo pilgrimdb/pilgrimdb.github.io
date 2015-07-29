@@ -1,7 +1,6 @@
 ---
 title: Caminho Português do Norte
 id: portnorte
-permalink: /portnorte.html
 branches:
   -
     branch: 0

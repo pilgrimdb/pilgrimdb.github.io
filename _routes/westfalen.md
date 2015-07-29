@@ -1,7 +1,6 @@
 ---
 title: Westfälischer Jakobsweg
 id: westfalen
-permalink: /westfalen.html
 branches:
   -
     branch: 0

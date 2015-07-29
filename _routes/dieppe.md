@@ -1,7 +1,6 @@
 ---
 title: Dieppe-Rouen-Chartres
 id: dieppe
-permalink: /dieppe.html
 branches:
   -
     branch: 0

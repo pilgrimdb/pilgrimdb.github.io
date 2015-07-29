@@ -1,7 +1,6 @@
 ---
 title: Via Lemovicensis
 id: limoges
-permalink: /limoges.html
 branches:
   -
     branch: 0

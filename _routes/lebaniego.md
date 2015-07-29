@@ -1,7 +1,6 @@
 ---
 title: Camino Lebaniego/Camino de Santo Toribio
 id: lebaniego
-permalink: /lebaniego.html
 branches:
   -
     branch: 0

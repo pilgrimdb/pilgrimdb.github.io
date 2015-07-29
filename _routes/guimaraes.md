@@ -1,7 +1,6 @@
 ---
 title: Caminho Central
 id: guimaraes
-permalink: /guimaraes.html
 branches:
   -
     branch: 0

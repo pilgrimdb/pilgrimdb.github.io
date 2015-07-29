@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Schrobenhausen
 id: schrobenhausen
-permalink: /schrobenhausen.html
 branches:
   -
     branch: 0

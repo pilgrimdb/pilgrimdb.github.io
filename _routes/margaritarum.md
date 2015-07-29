@@ -1,7 +1,6 @@
 ---
 title: Via Margaritarum
 id: margaritarum
-permalink: /margaritarum.html
 branches:
   -
     branch: 0

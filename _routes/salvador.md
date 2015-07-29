@@ -1,7 +1,6 @@
 ---
 title: Ruta del Salvador
 id: salvador
-permalink: /salvador.html
 branches:
   -
     branch: 0

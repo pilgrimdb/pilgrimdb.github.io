@@ -1,7 +1,6 @@
 ---
 title: Via Brabançonne
 id: brabanconne
-permalink: /brabanconne.html
 branches:
   -
     branch: 0

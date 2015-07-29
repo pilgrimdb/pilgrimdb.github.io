@@ -1,7 +1,6 @@
 ---
 title: Caminos del Norte - routes north of Camino Francés
 id: norte
-permalink: /norte.html
 ---
 
 a generic term for the routes to the north of the Camino Francés, and which predate it; the term is sometimes used for the Camino de la Costa and sometimes for a combination of the Camino de la Costa and the Camino Primitivo. Marking is not yet complete on all these routes. See overview map on [Eric Walker's site][0].  

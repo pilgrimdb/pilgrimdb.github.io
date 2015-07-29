@@ -1,7 +1,6 @@
 ---
 title: Fränkisch-Schwäbischer Jakobsweg
 id: frankischschwabisch
-permalink: /frankischschwabisch.html
 branches:
   -
     branch: 0

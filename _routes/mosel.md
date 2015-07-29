@@ -1,7 +1,6 @@
 ---
 title: Mosel-Camino
 id: mosel
-permalink: /mosel.html
 branches:
   -
     branch: 0

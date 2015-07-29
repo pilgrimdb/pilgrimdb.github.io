@@ -1,7 +1,6 @@
 ---
 title: Wielkopolska Droga Sw.Jakuba
 id: wielkopolska
-permalink: /wielkopolska.html
 branches:
   -
     branch: 0

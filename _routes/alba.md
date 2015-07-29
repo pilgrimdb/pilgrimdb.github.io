@@ -1,7 +1,6 @@
 ---
 title: Camino del Alba
 id: alba
-permalink: /alba.html
 branches:
   -
     branch: 0

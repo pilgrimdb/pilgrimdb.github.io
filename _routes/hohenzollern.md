@@ -1,7 +1,6 @@
 ---
 title: Hohenzollerischer Jakobsweg
 id: hohenzollern
-permalink: /hohenzollern.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Lahn-Camino
 id: lahn
-permalink: /lahn.html
 branches:
   -
     branch: 0

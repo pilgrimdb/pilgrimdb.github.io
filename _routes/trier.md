@@ -1,7 +1,6 @@
 ---
 title: Cologne/Bonn-Trier-Perl/Schengen
 id: trier
-permalink: /trier.html
 branches:
   -
     branch: 0

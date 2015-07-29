@@ -1,7 +1,6 @@
 ---
 title: Chemin du Piémont
 id: piemont
-permalink: /piemont.html
 branches:
   -
     branch: 0

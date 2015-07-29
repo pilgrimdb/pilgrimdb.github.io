@@ -1,7 +1,6 @@
 ---
 title: Camino Mudejar
 id: mudejar
-permalink: /mudejar.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Frankfurt-Leipzig
 id: lubben
-permalink: /lubben.html
 branches:
   -
     branch: 0

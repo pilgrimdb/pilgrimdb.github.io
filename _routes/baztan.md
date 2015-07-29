@@ -1,7 +1,6 @@
 ---
 title: Baztan valley
 id: baztan
-permalink: /baztan.html
 branches:
   -
     branch: 0

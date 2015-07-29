@@ -1,7 +1,6 @@
 ---
 title: Voie Littorale (Charente)
 id: rochelle
-permalink: /rochelle.html
 branches:
   -
     branch: 0

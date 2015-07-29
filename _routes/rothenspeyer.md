@@ -1,7 +1,6 @@
 ---
 title: Rothenburg-Speyer
 id: rothenspeyer
-permalink: /rothenspeyer.html
 branches:
   -
     branch: 0

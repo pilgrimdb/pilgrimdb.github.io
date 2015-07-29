@@ -1,7 +1,6 @@
 ---
 title: Nijmegen-Cologne
 id: xanten
-permalink: /xanten.html
 branches:
   -
     branch: 0

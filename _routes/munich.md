@@ -1,7 +1,6 @@
 ---
 title: Münchner Jakobsweg
 id: munich
-permalink: /munich.html
 branches:
   -
     branch: 0

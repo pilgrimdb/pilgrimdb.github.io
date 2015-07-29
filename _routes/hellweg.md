@@ -1,7 +1,6 @@
 ---
 title: Hellweg
 id: hellweg
-permalink: /hellweg.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Regia/Ökumenischer Pilgerweg
 id: regia
-permalink: /regia.html
 branches:
   -
     branch: 0

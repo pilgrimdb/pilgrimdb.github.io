@@ -1,7 +1,6 @@
 ---
 title: Basel-Jura-DreiSeen Weg
 id: jura
-permalink: /jura.html
 branches:
   -
     branch: 0

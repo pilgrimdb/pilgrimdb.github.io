@@ -1,7 +1,6 @@
 ---
 title: Camí de Sant Jaume
 id: jaume
-permalink: /jaume.html
 branches:
   -
     branch: 0

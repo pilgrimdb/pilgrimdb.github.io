@@ -1,7 +1,6 @@
 ---
 title: Paris-Vézelay
 id: sens
-permalink: /sens.html
 branches:
   -
     branch: 0

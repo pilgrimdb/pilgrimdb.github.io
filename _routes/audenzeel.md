@@ -1,7 +1,6 @@
 ---
 title: Jacobsweg Audenzeel
 id: audenzeel
-permalink: /audenzeel.html
 branches:
   -
     branch: 0

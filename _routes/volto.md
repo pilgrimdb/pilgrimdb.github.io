@@ -1,7 +1,6 @@
 ---
 title: Via del Volto Santo
 id: volto
-permalink: /volto.html
 branches:
   -
     branch: 0

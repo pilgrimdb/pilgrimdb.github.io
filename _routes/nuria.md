@@ -1,7 +1,6 @@
 ---
 title: Montserrat-Núria
 id: nuria
-permalink: /nuria.html
 branches:
   -
     branch: 0

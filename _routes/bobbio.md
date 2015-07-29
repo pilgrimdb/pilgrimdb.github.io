@@ -1,7 +1,6 @@
 ---
 title: Via Romea di Bobbio
 id: bobbio
-permalink: /bobbio.html
 branches:
   -
     branch: 0

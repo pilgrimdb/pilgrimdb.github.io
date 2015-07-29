@@ -1,7 +1,6 @@
 ---
 title: Bretelle de Fontcaude
 id: fontcaude
-permalink: /fontcaude.html
 branches:
   -
     branch: 0

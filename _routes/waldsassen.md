@@ -1,7 +1,6 @@
 ---
 title: Pilgerweg Volkenroda-Waldsassen
 id: waldsassen
-permalink: /waldsassen.html
 branches:
   -
     branch: 0

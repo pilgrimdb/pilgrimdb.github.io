@@ -1,7 +1,6 @@
 ---
 title: Oberschwäbischer Jakobsweg
 id: oberschwaben
-permalink: /oberschwaben.html
 branches:
   -
     branch: 0

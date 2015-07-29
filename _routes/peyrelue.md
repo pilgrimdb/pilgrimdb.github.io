@@ -1,7 +1,6 @@
 ---
 title: Lou Camin dou Seignou; Col de Peyrelue
 id: peyrelue
-permalink: /peyrelue.html
 branches:
   -
     branch: 0

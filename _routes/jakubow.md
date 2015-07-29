@@ -1,7 +1,6 @@
 ---
 title: Dolno&#347;l&#261;ska Droga &#347;w. Jakuba
 id: jakubow
-permalink: /jakubow.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Jakobspad
 id: jakobspad
-permalink: /jakobspad.html
 branches:
   -
     branch: 0

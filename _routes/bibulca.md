@@ -1,7 +1,6 @@
 ---
 title: Via Bibulca
 id: bibulca
-permalink: /bibulca.html
 branches:
   -
     branch: 0

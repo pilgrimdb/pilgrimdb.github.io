@@ -1,7 +1,6 @@
 ---
 title: Via Francigena
 id: francigena
-permalink: /francigena.html
 ---
 
 In medieval times, north-south roads through Italy, particularly those from the western Alps, were often referred to as 'French road' or 'road from France', in Latin a phrase such as 'Via Francesca' or 'Via Francigena' (cf 'Camino Francés' in Spain). These roads were obviously much used by medieval pilgrims from the north and west to Rome. At different times these names were applied to a variety of roads: the first record of 'Via Francesca' is from 876, a document from the abbey of San Salvatore on Monte Amiata; 'Via Francigena' in 1024 from Troia, on the road southeast from Rome to Apulia.  

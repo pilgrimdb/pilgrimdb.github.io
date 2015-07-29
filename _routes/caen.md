@@ -1,7 +1,6 @@
 ---
 title: Caen-Le Mans-Tours
 id: caen
-permalink: /caen.html
 branches:
   -
     branch: 0

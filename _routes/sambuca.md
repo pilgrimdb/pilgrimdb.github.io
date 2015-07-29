@@ -1,7 +1,6 @@
 ---
 title: Via Francigena della Sambuca
 id: sambuca
-permalink: /sambuca.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Via Turonensis GR655
 id: tours
-permalink: /tours.html
 branches:
   -
     branch: 0

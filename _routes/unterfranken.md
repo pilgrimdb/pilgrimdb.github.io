@@ -1,7 +1,6 @@
 ---
 title: Unterfränkischer Jakobsweg
 id: unterfranken
-permalink: /unterfranken.html
 branches:
   -
     branch: 0

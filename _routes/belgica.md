@@ -1,7 +1,6 @@
 ---
 title: Via Gallia Belgica
 id: belgica
-permalink: /belgica.html
 branches:
   -
     branch: 0

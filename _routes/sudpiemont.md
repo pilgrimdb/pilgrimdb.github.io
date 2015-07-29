@@ -1,7 +1,6 @@
 ---
 title: Voie du Piémont Sud Pyrénéen
 id: sudpiemont
-permalink: /sudpiemont.html
 branches:
   -
     branch: 0

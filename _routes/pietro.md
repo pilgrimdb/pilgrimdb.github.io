@@ -1,7 +1,6 @@
 ---
 title: Cammino di San Pietro
 id: pietro
-permalink: /pietro.html
 branches:
   -
     branch: 0

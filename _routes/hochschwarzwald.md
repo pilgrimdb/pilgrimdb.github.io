@@ -1,7 +1,6 @@
 ---
 title: Hochschwarzwald-Jakobusweg
 id: hochschwarzwald
-permalink: /hochschwarzwald.html
 branches:
   -
     branch: 0

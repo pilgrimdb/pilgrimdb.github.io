@@ -1,7 +1,6 @@
 ---
 title: Camino Inglés
 id: ingles
-permalink: /ingles.html
 branches:
   -
     branch: 0

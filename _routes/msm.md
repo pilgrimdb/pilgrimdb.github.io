@@ -1,7 +1,6 @@
 ---
 title: Mont St Michel routes
 id: msm
-permalink: /msm.html
 branches:
   -
     branch: 0

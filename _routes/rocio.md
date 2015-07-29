@@ -1,7 +1,6 @@
 ---
 title: El Rocío routes
 id: rocio
-permalink: /rocio.html
 branches:
   -
     branch: 0

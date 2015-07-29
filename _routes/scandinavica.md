@@ -1,7 +1,6 @@
 ---
 title: Via Scandinavica
 id: scandinavica
-permalink: /scandinavica.html
 branches:
   -
     branch: 0

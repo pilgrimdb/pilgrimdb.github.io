@@ -1,7 +1,6 @@
 ---
 title: Svatojakubská cesta na jižní Moravě
 id: brno
-permalink: /brno.html
 branches:
   -
     branch: 0

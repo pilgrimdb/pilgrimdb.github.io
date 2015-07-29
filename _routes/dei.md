@@ -1,7 +1,6 @@
 ---
 title: Via degli Dei
 id: dei
-permalink: /dei.html
 branches:
   -
     branch: 0

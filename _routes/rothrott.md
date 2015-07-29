@@ -1,7 +1,6 @@
 ---
 title: Rothenburg-Rottenburg Jakobsweg
 id: rothrott
-permalink: /rothrott.html
 branches:
   -
     branch: 0

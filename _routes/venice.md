@@ -1,7 +1,6 @@
 ---
 title: VeniceToSantiago
 id: venice
-permalink: /venice.html
 branches:
   -
     branch: 0

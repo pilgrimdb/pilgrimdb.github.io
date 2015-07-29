@@ -1,7 +1,6 @@
 ---
 title: Voie de Rocamadour
 id: rocamadour
-permalink: /rocamadour.html
 branches:
   -
     branch: 0

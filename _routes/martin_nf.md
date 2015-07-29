@@ -1,7 +1,6 @@
 ---
 title: Chemins Européens de St Martin
 id: martin_nf
-permalink: /martin_nf.html
 branches:
   -
     branch: 0

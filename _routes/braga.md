@@ -1,7 +1,6 @@
 ---
 title: Porto-Braga
 id: braga
-permalink: /braga.html
 branches:
   -
     branch: 0

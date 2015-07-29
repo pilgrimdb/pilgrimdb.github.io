@@ -1,7 +1,6 @@
 ---
 title: Camino del Mar
 id: mar
-permalink: /mar.html
 branches:
   -
     branch: 0

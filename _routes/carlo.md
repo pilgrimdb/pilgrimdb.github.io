@@ -1,7 +1,6 @@
 ---
 title: Cammino di San Carlo
 id: carlo
-permalink: /carlo.html
 branches:
   -
     branch: 0

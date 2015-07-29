@@ -1,7 +1,6 @@
 ---
 title: Pomorska Droga
 id: pomorska
-permalink: /pomorska.html
 branches:
   -
     branch: 0

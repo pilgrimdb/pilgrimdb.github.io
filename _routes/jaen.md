@@ -1,7 +1,6 @@
 ---
 title: Camino Mozárabe de Jaén
 id: jaen
-permalink: /jaen.html
 branches:
   -
     branch: 0

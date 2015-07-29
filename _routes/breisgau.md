@@ -1,7 +1,6 @@
 ---
 title: Kinzigtal-Freiburg-Breisach-Thann
 id: breisgau
-permalink: /breisgau.html
 branches:
   -
     branch: 0

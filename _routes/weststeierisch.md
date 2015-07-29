@@ -1,7 +1,6 @@
 ---
 title: Jakobsweg Weststeiermark
 id: weststeierisch
-permalink: /weststeierisch.html
 branches:
   -
     branch: 0

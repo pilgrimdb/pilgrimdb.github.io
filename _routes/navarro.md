@@ -1,7 +1,6 @@
 ---
 title: Camino Navarro/Chemin Navarrais
 id: navarro
-permalink: /navarro.html
 branches:
   -
     branch: 0

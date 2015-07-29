@@ -1,7 +1,6 @@
 ---
 title: Gy-Vézelay
 id: gy
-permalink: /gy.html
 branches:
   -
     branch: 0

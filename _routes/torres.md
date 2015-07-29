@@ -1,7 +1,6 @@
 ---
 title: Camino Torres
 id: torres
-permalink: /torres.html
 branches:
   -
     branch: 0

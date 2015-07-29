@@ -1,7 +1,6 @@
 ---
 title: Camiño Xacobeo Miñoto-Ribeiro
 id: ribeiro
-permalink: /ribeiro.html
 branches:
   -
     branch: 0

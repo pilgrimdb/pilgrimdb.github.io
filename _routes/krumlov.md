@@ -1,7 +1,6 @@
 ---
 title: Prague-Cesky Krumlov
 id: krumlov
-permalink: /krumlov.html
 branches:
   -
     branch: 0

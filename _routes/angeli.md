@@ -1,7 +1,6 @@
 ---
 title: Cammino degli Angeli
 id: angeli
-permalink: /angeli.html
 branches:
   -
     branch: 0

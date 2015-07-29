@@ -1,7 +1,6 @@
 ---
 title: Berlin-Potsdam-Vehlen
 id: potsdam
-permalink: /potsdam.html
 branches:
   -
     branch: 0

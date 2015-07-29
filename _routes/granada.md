@@ -1,7 +1,6 @@
 ---
 title: Camino Mozárabe (Granada)
 id: granada
-permalink: /granada.html
 branches:
   -
     branch: 0

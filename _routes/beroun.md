@@ -1,7 +1,6 @@
 ---
 title: Prague-Tillyschanz
 id: beroun
-permalink: /beroun.html
 branches:
   -
     branch: 0

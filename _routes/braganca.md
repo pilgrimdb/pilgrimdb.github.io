@@ -1,7 +1,6 @@
 ---
 title: Camino Portugués de la Via de la Plata
 id: braganca
-permalink: /braganca.html
 branches:
   -
     branch: 0

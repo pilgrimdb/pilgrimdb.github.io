@@ -1,7 +1,6 @@
 ---
 title: Fátima routes
 id: fatima
-permalink: /fatima.html
 branches:
   -
     branch: 0

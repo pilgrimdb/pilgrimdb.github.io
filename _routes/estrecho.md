@@ -1,7 +1,6 @@
 ---
 title: Camino de Santiago del Estrecho
 id: estrecho
-permalink: /estrecho.html
 branches:
   -
     branch: 0

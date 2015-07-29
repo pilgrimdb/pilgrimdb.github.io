@@ -1,7 +1,6 @@
 ---
 title: Oberpfälzer/Fränkischer Jakobsweg
 id: oberpfalz
-permalink: /oberpfalz.html
 branches:
   -
     branch: 0

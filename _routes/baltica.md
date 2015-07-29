@@ -1,7 +1,6 @@
 ---
 title: Via Baltica/Baltisch-Westfälischer Jakobsweg
 id: baltica
-permalink: /baltica.html
 branches:
   -
     branch: 0

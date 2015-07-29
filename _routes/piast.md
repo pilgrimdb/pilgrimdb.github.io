@@ -1,7 +1,6 @@
 ---
 title: Szlak Piastowski
 id: piast
-permalink: /piast.html
 branches:
   -
     branch: 0

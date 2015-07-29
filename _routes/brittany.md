@@ -1,7 +1,6 @@
 ---
 title: Brittany routes
 id: brittany
-permalink: /brittany.html
 branches:
   -
     branch: 0

@@ -1,7 +1,6 @@
 ---
 title: Camino de Cartagena
 id: cartagena
-permalink: /cartagena.html
 branches:
   -
     branch: 0

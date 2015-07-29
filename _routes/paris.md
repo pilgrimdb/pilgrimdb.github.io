@@ -1,7 +1,6 @@
 ---
 title: Paris-Tours GR655
 id: paris
-permalink: /paris.html
 branches:
   -
     branch: a
