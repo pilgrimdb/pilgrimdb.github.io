@@ -31,11 +31,14 @@ document.body.appendChild(mapDef);
 // str - url string 'maptype/filename'
 // dir - optional dir to prefix to filename
 function createMapdef(str, dir) {
-  var maptypes = {{site.data.maptypes | jsonify}};
-  // what a horrible hack!
-  maptypes.bing.map = maptypes.bing.map.replace(/site.apikeys.bing/g, '{{site.apikeys.bing}}');
-  maptypes.f.map = maptypes.f.map.replace(/site.apikeys.ignf/g, '{{site.apikeys.ignf}}');
-  maptypes.gb.map = maptypes.gb.map.replace(/site.apikeys.os/g, '{{site.apikeys.os}}');
+  var maptypes = {{ site.data.maptypes | jsonify }};
+  var apikeys = {{ site.apikeys | jsonify }};
+  for (var type in maptypes) {
+    var mt = maptypes[type];
+    if (mt.api) {
+      mt.map = mt.map.replace(/apikey/g, apikeys[mt.api]);
+    }
+  }
   var parts = str.split('/');
   var el = document.createElement('rasters');
   el.innerHTML = maptypes[parts[0]].map;

@@ -6,7 +6,8 @@ b:
   map: "be/ign/topo"
 bing:
   name: Bing
-  map: '{"bing/Road":"site.apikeys.bing"},{"bing/AerialLabels":"site.apikeys.bing"}'
+  map: '{"bing/Road":"apikey"},{"bing/AerialLabels":"apikey"}'
+  api: bing
 cat:
   name: ICC
   map: "es/icc/topo"
@@ -26,10 +27,12 @@ e:
   map: "es/ign/mtn"
 f:
   name: IGN(F)
-  map: '{"fr/ign/topo":"site.apikeys.ignf"},{"fr/ign/photos":"site.apikeys.ignf"},{"fr/ign/etat":"site.apikeys.ignf"}'
+  map: '{"fr/ign/topo":"apikey"},{"fr/ign/photos":"apikey"},{"fr/ign/etat":"apikey"}'
+  api: ignf
 gb:
   name: OS
-  map: '{"gb/os":"site.apikeys.os"}'
+  map: '{"gb/os":"apikey"}'
+  api: os
 i:
   name: IGM
   map: "it/pcn"
