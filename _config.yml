@@ -11,7 +11,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "routes"
+      path: ""
       type: "routes"
     values:
       layout: "route"
