@@ -4,7 +4,7 @@ id: baltica
 branches:
   -
     branch: 0
-    towns: "&#346;winouj&#347;cie,Tribsees,Rostock,Lübeck,Hamburg,Stade,Bremen,Osnabrück"
+    towns: "Świnoujście,Tribsees,Rostock,Lübeck,Hamburg,Stade,Bremen,Osnabrück"
     mapagencies: d
 ---
 
@@ -13,5 +13,5 @@ A guide to the route from Bremen, [_Jakobswege: Wege der Jakobspilger in Bremen 
 
 [0]: westfalen.html
 [1]: http://www.jakobswege-norddeutschland.de/
-[2]: birgitta
+[2]: birgitta.html
 [3]: http://www.amazon.de/exec/obidos/ASIN/376162171X/europaischefe-21

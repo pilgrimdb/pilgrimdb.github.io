@@ -12,4 +12,4 @@ The [Amici del Cammino di Santiago da Venezia][0] are developing this route whic
 
 [0]: http://www.venicetosantiago.com/
 [1]: francigena_i.html
-[2]: montgenevre_i.html
+[2]: montgenevre.html

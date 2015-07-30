@@ -25,4 +25,4 @@ See also the routes from Mt-St-Michel via [Rennes][5] and [Angers][6].
 [3]: http://www.editions-sudouest.com/?page=EsoLayout&portlet=Editions&ed=rando
 [4]: http://www.vendeecompostelle.org/
 [5]: rennes.html
-[6]: angers.html
+[6]: plantagenets.html

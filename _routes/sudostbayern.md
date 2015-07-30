@@ -19,7 +19,7 @@ two routes constituting the [Südostbayerischer Jakobsweg][0] are now complete:
 There is further info on the Salzburg route and the Krumlov route from Altötting onwards on the [Südost-Oberbayern Jakobsweg site][5].
 
 [0]: http://www.jakobus-weg.de/aJakw/Jakob_home.htm
-[1]: vienna.html
+[1]: austria.html
 [2]: munich.html
 [3]: http://www.amazon.de/exec/obidos/ASIN/370222565X/europaischefe-21
 [4]: http://www.amazon.de/exec/obidos/ASIN/348501012X/europaischefe-21
