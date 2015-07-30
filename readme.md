@@ -2,7 +2,7 @@
 
 A database of European pilgrimage routes for walkers and cyclists, with overview description and mapping.
 
-It is designed to be communally maintained, using the Github infrastructure widely used by open-source software projects. The website is generated using Github's [Jekyll](http://jekyllrb.com/) software. See the [contributing] page for details on how to contribute.
+It is designed to be communally maintained, using the Github infrastructure widely used by open-source software projects. The website is generated using Github's [Jekyll](http://jekyllrb.com/) software. See the [contributing](contributing.md) page for details on how to contribute.
 
 #### Data structure
 Each route has:
