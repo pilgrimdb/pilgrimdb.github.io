@@ -44,7 +44,7 @@ layout: default
     {% endfor %}
     {% capture geo %}{{ '{"type":"FeatureCollection","features":[' | uri_escape }}{{features}}%5D%7D{% endcapture %}
     <figure>
-    <img src="http://api.tiles.mapbox.com/v4/mapbox.run-bike-hike/geojson%28{{geo}}%29/auto/500x300.png?access_token={{site.apikeys.mapbox}}" alt="overview map" title="overview map">
+    <img src="https://api.tiles.mapbox.com/v4/mapbox.run-bike-hike/geojson%28{{geo}}%29/auto/500x300.png?access_token={{site.apikeys.mapbox}}" alt="overview map" title="overview map">
     <figcaption>Lines schematic only; base map <a href="https://www.mapbox.com/about/maps/">© Mapbox © OpenStreetMap</a></figcaption>
     </figure>
     {% endif %}
