@@ -1,0 +1,474 @@
+2saints:
+  0: "adapted from kml file from <a href=\"http://www.twosaintsway.org.uk/\">Two Saints Way website</a>"
+agostino:
+  0: "kml files from <a href=\"http://camminodiagostino.splinder.com/\">Cammino site</a>"
+  1: "kml files from <a href=\"http://camminodiagostino.splinder.com/\">Cammino site</a>"
+alba:
+  0: "adapted from kml file from <a href=\"http://www.xabiacamino.es/\">Xàbia-Camino de Santiago</a>"
+andrews:
+  0: "gpx files from <a href=\"http://www.thewayofstandrews.com/\">Way of St Andrews site</a>"
+  a: "gpx files from <a href=\"http://www.thewayofstandrews.com/\">Way of St Andrews site</a>"
+  b: "gpx files from <a href=\"http://www.thewayofstandrews.com/\">Way of St Andrews site</a>"
+angeli:
+  0: "kml files from <a href=\"http://www.movimentolento.it/\">movimentolento.it</a>"
+antonio:
+  0: "kml file from <a href=\"http://www.ilcamminodisantantonio.it/\">www.ilcamminodisantantonio.it</a>"
+  u: "kml file from <a href=\"http://www.ilcamminodisantantonio.it/\">www.ilcamminodisantantonio.it</a>"
+appenzell:
+  0: "kml files from <a  href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+aragones:
+  0: "Navarra section adapted from ESRI shapefile from <a href=\"http://idena.navarra.es/busquedas/descarga.aspx?id=1\">Navarra regional government</a>; Aragon section from KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+arvernia:
+  0: "Clermont-Brioude sections adapted from kml files from <a href=\"http://www.via-arverna.com\">via-arverna.com</a>"
+  2: "Laroquebrou-Cahors sections adapted from kml files from <a href=\"http://www.gr-infos.com/\">gr-infos.com</a>"
+  a: "Clermont-Brioude sections adapted from kml files from <a href=\"http://www.via-arverna.com\">via-arverna.com</a>"
+assise:
+  1: "kml files from <a href=\"http://www.camminafrancigena.it/\">CamminaFrancigena</a>"
+augsburg:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+  a: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+austria:
+  0: "kml file on <a href=\"http://bbs.keyhole.com/ubb/ubbthreads.php?ubb=showflat&Number=861387&site_id=1#import\">Google Earth community</a>"
+baltica:
+  0: "kml file from <a href=\"http://www.jakobswege-norddeutschland.de/43360/home.html\">jakobswege-norddeutschland.de</a>"
+barcelona:
+  0: "Barcelona-St Medir section entered by P Robins"
+  a: "L\'Hospitalet route from <a href=\"http://www.peregrinoslh.com/\">Amigos website</a>"
+  b: "GR6 from user baylina on <a href=\"http://www.everytrail.com/view_trip.php?trip_id=943805\">EveryTrail</a>"
+basel:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+baztan:
+  0: "kml files from <a href=\"http://vppyr.free.fr/vpp_google_earth.php\">vppyr.free.fr</a>"
+belgica:
+  1: "entered by P Robins"
+beroun:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+beuron:
+  0: "kml file from <a href=\"http://www.wanderkompass.de/Deutschland/pilgerwege-deutschland.html\">wanderkompass.de</a>"
+birgitta:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+bobbio:
+  0: "Via dei Malaspina: <a href=\"http://www.wandermap.net/user/CamminandoSullaViaFrancigena\">wandermap.net</a>"
+  a: "Bobbio-Pavia: kml files from user Morino on <a href=\"http://es.wikiloc.com/wikiloc/user.do?id=73752\">wikiloc</a>"
+  b: "Bobbio-Pontremoli: adapted from kml file from <a href=\"http://www.retecamminifrancigeni.eu/index.php?pag=276&ins=183\">Rete dei Cammini</a>"
+  l: "Via dei Longobardi: kml files from <a href=\"http://www.movimentolento.it/it/resource/track/category/piedi/\">Movimento Lento</a>"
+bonifatius:
+  0: "adapted from KML files from <a href=\"http://www.wanderkompass.de/\">wanderkompass.de</a>"
+boulangrie:
+  0: "kml file from <a href=\"http://saintjacquesenboulangrie.wordpress.com/troncons/\">Association Saint-Jacques en Boulangrie</a>"
+bourbon:
+  0: "Allier section from <a href=\"http://ffrandonnee-allier.fr/Sentier_GR300_Allier.ffr\">FFRP Allier</a>; other sections entered by P Robins"
+braganca:
+  0: "trails on wikiloc.com from user <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">semurandar</a>"
+brandenburg:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+breisgau:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  a: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+brno:
+  0: "kml file from <a href=\"http://www.jakubskacesta.cz/\">www.jakubskacesta.cz</a>"
+  b: "kml file from <a href=\"http://www.jakubskacesta.cz/\">www.jakubskacesta.cz</a>"
+cadiz:
+  0: "adapted from kml file from user <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=narisev\">narisev</a> on wikiloc"
+caen:
+  1: "adapted from kml files from <a href=\"http://assostjacques72.free.fr/\">Association Sarthoise des Amis de St Jacques</a>"
+caravaca:
+  0: "kml files from <a href=\"http://www.peregrinoacaravaca.com/\">Peregrino a Caravaca</a>"
+  b: "kml files from <a href=\"http://www.peregrinoacaravaca.com/\">Peregrino a Caravaca</a>"
+  c: "kml files from <a href=\"http://www.peregrinoacaravaca.com/\">Peregrino a Caravaca</a>"
+  d: "kml files from <a href=\"http://www.peregrinoacaravaca.com/\">Peregrino a Caravaca</a>"
+cartagena:
+  0: "adapted from trail from user Mariano Vicente on <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=Mariano Vicente\">wikiloc.com</a>"
+celeste:
+  0: "adapted from gpx files from <a href=\"http://www.camminoaquileiese.it/\">Cammino Celeste site</a>"
+  a: "adapted from gpx files from <a href=\"http://www.camminoaquileiese.it/\">Cammino Celeste site</a>"
+complutense:
+  0: "adapted from GPX files from <a href=\"http://caminosantiago-guillermo.blogspot.com/p/camino-de-santiago-complutense.html\">http://caminosantiago-guillermo.blogspot.com/</a>"
+conques:
+  0: "kml files from <a href=\"http://conques.toulouse.free.fr/\">conques.toulouse.free.fr</a>"
+costa:
+  0: "adapted from kml files: Asturias section from <a href=\"http://www.cartografia.asturias.es/Hipervinculos/KMLS/Camino Santiago/CaminoDeSantiago.kml\">Asturias regional government</a>; Galician section from <a href=\"http://camino.xacobeo.es/\">Xacobeo</a> except Abres-Lourenza from <a href=\"http://www.rinconastur.net/camino/rutas.php\">Rincon Astur</a>; other sections from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+  a: "adapted from kml files: Asturias section from <a href=\"http://www.cartografia.asturias.es/Hipervinculos/KMLS/Camino Santiago/CaminoDeSantiago.kml\">Asturias regional government</a>; Galician section from <a href=\"http://camino.xacobeo.es/\">Xacobeo</a> except Abres-Lourenza from <a href=\"http://www.rinconastur.net/camino/rutas.php\">Rincon Astur</a>; other sections from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+dei:
+  0: "adapted from kml file from <a href=\"http://www.giscover.com/tours/tour/display/2421\">giscover.com</a>"
+dieppe:
+  0: "Dieppe-Rouen entered by P Robins"
+  2: "Dreux-Chartres adapted from kml file from <a href=\"\">Eure et Loir Amis</a>"
+dusseldorf:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  a: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+ebro:
+  0: "KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+eisack:
+  0: "adapted from kml file from <a href=\"http://www.gpsies.com/trackList.do?userTracks=jakobsweg_suedtirol\">GPSies</a>"
+elisabeth:
+  1: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+fatima:
+  0: "adapted from KML files from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a> (Lisbon section), <a href=\"http://www.gpsies.com/map.do?fileId=agcouasqieqjgusa\">gpsies.com</a> (Ansiao-Fatima section) and <a href=\"www.cnc.pt/Artigo.aspx?ID=51\">Centro Nacional de Cultura</a> (all other sections)"
+  a: "adapted from KML files from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a> (Lisbon section), <a href=\"http://www.gpsies.com/map.do?fileId=agcouasqieqjgusa\">gpsies.com</a> (Ansiao-Fatima section) and <a href=\"www.cnc.pt/Artigo.aspx?ID=51\">Centro Nacional de Cultura</a> (all other sections)"
+figroc:
+  0: "adapted from kml files from <a href=\"http://www.gr-infos.com/\">gr-infos.com</a>"
+firenze:
+  0: "adapted from kml file from <a href=\"http://www.vieromee.it/\">Vie Romee</a>"
+fisterra:
+  0: "trail from user jagasso on <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=jagasso\">wikiloc.com</a>"
+frances:
+  0: "Navarra section adapted from ESRI shapefile from <a href=\"http://idena.navarra.es/busquedas/descarga.aspx?id=1\">Navarra regional government</a>; La Rioja section adapted from coordinates from <a href=\"http://www.iderioja.larioja.org/\">La Rioja regional government</a>; Galician section adapted from kml files from <a href=\"http://camino.xacobeo.es\">Xacobeo</a>; other sections from KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+francigena_ch:
+  0: "kml files from <a href=\"http://www.camminafrancigena.it/\">CamminaFrancigena</a>"
+francigena_f:
+  0: "kml files from <a href=\"http://www.movimentolento.it/\">movimentolento.it</a> based on <a href=\"http://www.globetrotter-life.com\">Cristina Menghini</a>\'s GPS tracks; GR route adapted from GPX files from <a href=\"http://www.tourisme-champagne-ardenne.com/balades/voyageurs/via-francigena.aspx\">Champagne-Ardenne</a> and <a href=\"http://www.tourisme-langres.com/viafrancigena_fr_40_01_rando_IGRCHA5280000002.html\">Tourisme Langres</a>"
+francigena_i:
+  0: "main route, kml files created as part of <a href=\"http://www.itineraria.eu/2008/04/09/la-guida-al-percorso-pedonale-della-via-francigena/\">CamminaFrancigena2008</a>; La Storta-Roma alternative based on <a href=\"http://www.romaefrancigena.eu/percorso/Cassia.htm\">recommendation by Alberto Alberti</a>"
+  a: "Monginevra/Moncenisio-Torino: kml files from <a href=\"http://www.camminafrancigena.it/\">CamminaFrancigena</a>"
+  c: "Torino-Vercelli: kml files from <a href=\"www.venicetosantiago.com\">VenicetoSantiago</a>"
+  d: "coastal route: kml files from <a href=\"http://www.viadellacosta.it/\">Silvio Calcagno\'s site</a>"
+francigena_s:
+  a: "kml file from <a href=\"http://www.viefrancigenedelsud.it/it\">www.viefrancigenedelsud.it</a>"
+  c: "kml file from <a href=\"http://www.viefrancigenedelsud.it/it\">www.viefrancigenedelsud.it</a>"
+  e: "kml file from <a href=\"http://www.viefrancigenedelsud.it/it\">www.viefrancigenedelsud.it</a>"
+francis:
+  0: "Montepaolo-Gubbio: kml files from <a href=\"http://www.wandermap.net/user/CamminandoSullaViaFrancigena\">wandermap.net</a>"
+  1: "Gubbio-Assisi: gpx file from <a href=\"http://www.caigubbio.it/francescano/francescano_gps.html\">CAI Gubbio</a>"
+  a: "Montepaolo-Gubbio: kml files from <a href=\"http://www.wandermap.net/user/CamminandoSullaViaFrancigena\">wandermap.net</a>"
+frankischschwabisch:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+fulda:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+galler:
+  0: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+gelnhausen:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+geneva:
+  0: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>	"
+  a: "Annecy, Annemasse and St Gingolph links from <a href=\"http://chemins.amis-st-jacques.org/?page_id=8\">Rhone-Alpes Amis</a>"
+  f: "Annecy, Annemasse and St Gingolph links from <a href=\"http://chemins.amis-st-jacques.org/?page_id=8\">Rhone-Alpes Amis</a>"
+  g: "Annecy, Annemasse and St Gingolph links from <a href=\"http://chemins.amis-st-jacques.org/?page_id=8\">Rhone-Alpes Amis</a>"
+gilles:
+  0: "adapted from kml files from <a href=\"http://www.gr-infos.com/\">gr-infos.com</a>"
+girona:
+  0: "adapted from kml files from <a href=\"http://www.camigironasantiago.com/\">Girona Amics</a>"
+  a: "adapted from kml files from <a href=\"http://www.camigironasantiago.com/\">Girona Amics</a>"
+  b: "adapted from kml files from <a href=\"http://www.camigironasantiago.com/\">Girona Amics</a>"
+goppingen:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+gr101:
+  0: "entered by P Robins"
+grado:
+  0: "kml file from <a href=\"http://www.amicidisantiago.it/aquileiese/aquileiese.htm\">Associazione Triveneta Amici di Santiago</a>"
+granada:
+  0: "Kml files from <a href=\"http://www.luchana48.com/mozarabe\">Luchana</a> (Granada-Alcaudete) and <a href=\"http://granadajacobea.com.es/\">Granada Amigos</a>"
+graubunden:
+  0: "kml files from <a  href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+graz:
+  1: "kml files from <a href=\"http://www.jakobsweg-tirol.net/\">Jakobsweg Tirol</a> and <a href=\"http://www.eisacktal.info/de/aktiv/sommer/wandern/jakobsweg.html\">eisacktal.info</a>"
+guimaraes:
+  1: "kml file from <a href=\"http://caminosantiago.usal.es/torres/\">Camino Torres</a>"
+gy:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+hallertau:
+  0: "gpx file from <a href=\"http://www.vermessung.bayern.de/freizeit/wanderwege,Route,2,273,11230.html\">Bayerische Vermessungsverwaltung</a>"
+hants:
+  0: "adapted from <a href=\"http://hampshire.walkandcycle.co.uk/trail_summary.php?recordID=HAMPTR0157\">Hampshire Walk and Cycle</a>"
+hellweg:
+  1: "kml file from <a href=\"http://www.lwl.org/LWL/Kultur/Altertumskommission/Jakobspilger/\">Altertumskommission für Westfalen</a>"
+hemma:
+  0: "kml file from <a href=\"http://www.steiermark.com/de/poi/wandertour-der-hemma-pilgerweg_40603\">Steiermark Tourismus</a>"
+himmelreich:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+hohenzollern:
+  1: "kml file from <a href=\"http://www.wanderkompass.de/Deutschland/pilgerwege-deutschland.html\">wanderkompass.de</a>"
+huesca:
+  0: "adapted from kml file from <a href=\"http://bicigrino.com/google_earth.htm\">bicigrino.com</a>"
+hunsruck:
+  0: "adapted from gpx files from <a href=\"http://www.hunsruecktouristik.de/\">Hunsrück-Touristik</a>"
+imperii:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+ingles:
+  0: "Corunna branch entered by P Robins"
+  a: "Ferrol branch from user yerri on <a href=\"http://www.wikiloc.com/wikiloc/user.do?id=54871\">wikiloc.com</a>"
+invierno:
+  0: "kml files from <a href=\"es.wikiloc.com/wikiloc/user.do?name=kiko  castaño\">wikiloc</a>"
+isar:
+  0: "kml file from <a href=\"http://www.jakobsweg-tirol.net/\">Jakobsweg Tirol</a>"
+jacobi:
+  0: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+  a: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+jaen:
+  0: "gpx files from <a href=\"http://www.jaenjacobea.com/\">Asociación Jacobea de Jaén</a>"
+jakubow:
+  0: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+james:
+  0: "St Swithuns and Itchen Way sections adapted from <a href=\"http://hampshire.walkandcycle.co.uk/trail_summary.php?recordID=HAMPTR0159\">Hampshire Walk and Cycle</a>; other sections entered by P Robins"
+jaume:
+  0: "KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+jura:
+  0: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+  0: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+jutlandica:
+  0: "Danish section from <a href=\"http://www.haervej.dk/\">haervej.dk</a>; German section from <a href=\"http://www.jakobswege-norddeutschland.de/43360/home.html\">jakobswege-norddeutschland.de</a>"
+  b: "Danish section from <a href=\"http://www.haervej.dk/\">haervej.dk</a>; German section from <a href=\"http://www.jakobswege-norddeutschland.de/43360/home.html\">jakobswege-norddeutschland.de</a>"
+kinzig:
+  0: "adapted from KML files from <a href=\"http://www.wanderkompass.de/\">wanderkompass.de</a>"
+lahn:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+lana:
+  0: "adapted from trails on wikiloc, user <a href=\"http://es.wikiloc.com/wikiloc/user.do?name=majoma\">majoma</a>"
+leona:
+  0: "Venezia-Padova from <a href=\"http://www.amicidisantiago.it/romea/leona.htm\">www.amicidisantiago.it</a>	"
+  1: "gpx file from <a href=\"http://www.amicidisantiago.it/romea/leona.htm\">www.amicidisantiago.it</a>"
+levante:
+  0: "kml file from <a href=\"http://www.vieiragrino.com/\">Valencia Amigos</a>"
+lichtenfels:
+  0: "Kml files from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a> (Lichtenfels-Nuremberg) and <a href=\"http://www.bayreuth-evangelisch.de/Jakobsweg/\">Dekanatsbezirk Bayreuth</a> (from Effeltrich)"
+  a: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a> (Erfurt-Unterweissbach)"
+  c: "gpx files from Volker Schikowsky (Almerswind-Coburg) and <a href=\"http://www.openstreetmap.org/user/edosm/traces/472412\">OpenStreetMap</a> (Coburg-Lichtenfels)"
+limoges:
+  0: "adapted from files from ASJ: <a href=\"http://www.compostelle-limousin-perigord.fr/html/lechemin.html\">Dordogne</a>, <a href=\"http://www.saint-jacques-aquitaine.com/voie_vezelay.php\">Gironde</a>, <a href=\"www.compostelle-landes.org/\">Landes</a>; <a href=\"http://www.cdrp64.com/sentiers-et-topoguides/les-gr/le-gr-654/\">FFRP</a> (Pyrenees-Atlantiques), <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a> (sections E of Dordogne)"
+  a: "kml files from user André Schweitzer on <a href=\"http://www.calculitineraires.fr/\">calculitineraires.fr</a> (Bourges branch)"
+  b: "<a href=\"http://www.gr-infos.com/gr-fr.htm\">gr-infos.com</a> (GR654)"
+littorale:
+  0: "adapted from kml files from <a href=\"http://pagesperso-orange.fr/vtt.compostelle/fiches.htm\">VTT-Compostelle</a> (Gironde section) and <a href=\"www.compostelle-landes.org/\">Landes Amis</a>"
+  b: "link: kml file from <a href=\"www.compostelle-landes.org/\">Landes Amis</a>"
+loccum:
+  0: "adapted from kml files from <a href=\"http://pilgerweg.kommunal-navigator.de/\">pilgerweg.kommunal-navigator.de</a>"
+  a: "adapted from kml files from <a href=\"http://pilgerweg.kommunal-navigator.de/\">pilgerweg.kommunal-navigator.de</a>"
+lubben:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+lubelska:
+  0: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+lubuska:
+  0: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+madrid:
+  0: "adapted from trails on wikiloc.com from users <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=filosofoerrante\">filosofoerrante</a> and <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=rafa esva\">rafa esva</a>"
+mainz:
+  0: "kml file from <a href=\"http://www.via-mogontiacum.de/\">www.via-mogontiacum.de/</a>"
+malaga:
+  0: "adapted from trails on wikiloc.com from users <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=caminantes\">caminantes</a> and <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=Io-SyS\">Io-SyS</a>"
+malopolska:
+  0: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+manchego:
+  0: "adapted from KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+marburg:
+  0: "Wartburg-Marburg Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+  1: "Marburg-Cologne gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+mariazell:
+  0: "kml file from <a href=\"http://www.niederoesterreich.at/portal/default.asp? tt=NOE09_R77\">Niederösterreich website</a>"
+  b: "from gpx file from <a href=\"http://alpregio.outdooractive.com/ar-steiermark/de/alpregio.jsp#i=1494046&tab=TourTab\">Steierischer Tourismus</a>"
+marne:
+  0: "entered by P Robins"
+martin:
+  3: "Centre sections adapted from kml files from <a href=\"http;//viasanctimartini-france.blogspot.com/\">Via Sancti Martini France</a>; other sections entered by P Robins"
+  4: "Centre sections adapted from kml files from <a href=\"http;//viasanctimartini-france.blogspot.com/\">Via Sancti Martini France</a>; other sections entered by P Robins"
+  g: "Centre sections adapted from kml files from <a href=\"http;//viasanctimartini-france.blogspot.com/\">Via Sancti Martini France</a>; other sections entered by P Robins"
+martin_nf:
+  0: "Hungarian section kml files from <a href=\"http://www.viasanctimartini.eu/\">Via Sancti Martini</a>"
+mecklenburg:
+  0: "Rostock-Perleberg kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  1: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+menton:
+  0: "adapted from kml file from Doug Werme"
+  b: "Ste Baume variant entered by P Robins"
+metz:
+  0: "kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+mittelfranken:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+montgenevre:
+  0: "entered by P Robins"
+mosana:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  a: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+mosel:
+  0: "gps file from Wolfgang Welter"
+mozarabe:
+  0: "Seville-Zamora adapted from kml file from <a href=\"http://bicigrino.com/google_earth.htm\">bicigrino.com</a>; Zamora-Astorga from trails on wikiloc.com from user <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">semurandar</a>"
+msm:
+  0: "kml files from <a href=\"http://www.lescheminsdumontsaintmichel.com/\">Les Chemins du Mont St Michel</a>"
+  a: "kml files from <a href=\"http://www.lescheminsdumontsaintmichel.com/\">Les Chemins du Mont St Michel</a>"
+  b: "kml files from <a href=\"http://www.lescheminsdumontsaintmichel.com/\">Les Chemins du Mont St Michel</a>"
+  c: "kml files from <a href=\"http://www.lescheminsdumontsaintmichel.com/\">Les Chemins du Mont St Michel</a>"
+  d: "<a href=\"http://www.gr-infos.com/\">gr-infos.com</a> (GR22 sections)"
+  e: "kml files from <a href=\"http://www.lescheminsdumontsaintmichel.com/\">Les Chemins du Mont St Michel</a>"
+  f: "<a href=\"http://assostjacques72.free.fr/\">Association Sarthoise des Amis de St Jacques</a> (Le Mans route)	"
+munich:
+  0: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+  a: "Freising branch gpx file from <a href=\"http://www.vermessung.bayern.de/freizeit/wanderwege.html\">Bayerische Vermessungsverwaltung</a>"
+navarro:
+  0: "Navarra section adapted from ESRI shapefile from <a href=\"http://idena.navarra.es/busquedas/descarga.aspx?id=1\">Navarra regional government</a>; French section kml files from <a href=\"http://www.gr-infos.com/\">gr-infos.com</a>"
+neckar:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a> (Rothenburg-Horb)"
+  1: "encoded polylines from <a href=\"http://www.jakobuswege-schwarzwald-alb.de/\">Jakobuswege Schwarzwald Alb</a> (Horb-Blumberg)"
+nepomuk:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+noyon:
+  0: "lines entered by P Robins"
+nwales:
+  0: "adapted from track on <a href=\"http://www.viewranger.com/\">ViewRanger</a>"
+oberfranken:
+  0: "Kml file from <a href=\"http://www.bayreuth-evangelisch.de/Jakobsweg/\">Dekanatsbezirk Bayreuth</a>"
+oberpfalz:
+  0: "Kml file from <a href=\"http://www.occa.de/\">occa.de</a>"
+oberschwaben:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+olav:
+  0: "adapted from kml files from user jagasso on <a href=\"http://es.wikiloc.com/wikiloc/user.do?name=jagasso\">wikiloc.com</a>"
+ostbayern:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+paris:
+  a: "Coulée Verte and Les Perruches-Lavardin sections adapted from kml files from <a href=\"http://www.gpx-view.com/gpx.php?f=CouleeVerteBoisVerriere.gpx\">gpx-view.com</a> and <a href=\"http://www.gr-infos.com/\">gr-infos.com</a> respectively; other lines entered by P Robins"
+  b: "entered by P Robins"
+pedemontana:
+  0: "kml file from <a href=\"http://www.viefrancigenedelsud.it/it\">www.viefrancigenedelsud.it</a>"
+pellegrino:
+  0: "adapted from gpx files from <a href=\"http://www.turismo.provincia.lucca.it/list.php?idcat=13\">Lucca Turismo</a>"
+pfalz:
+  0: "adapted from KML files from <a href=\"http://www.wanderkompass.de/\">wanderkompass.de</a>"
+  a: "adapted from KML files from <a href=\"http://www.wanderkompass.de/\">wanderkompass.de</a>"
+piemont:
+  0: "kml files from <a href=\"http://vppyr.free.fr/vpp_google_earth.php\">vppyr.free.fr</a>"
+pilgrims:
+  0: "St Swithuns Way adapted from <a href=\"http://hampshire.walkandcycle.co.uk/trail_summary.php?recordID=HAMPTR0158\">Hampshire Walk and Cycle</a>"
+  1: "St Swithuns Way adapted from <a href=\"http://hampshire.walkandcycle.co.uk/trail_summary.php?recordID=HAMPTR0158\">Hampshire Walk and Cycle</a>"
+  2: "Canterbury-Dover original AIVF route plus a variant of N Downs Way visiting Barfreston church; all other sections N Downs Way adapted from kml files from <a href=\"http://www.luphen.org.uk/walks/north_downs_way/\">www.luphen.org.uk</a>"
+plantagenets:
+  1: "adapted from kml files from <a href=\"http://www.gr-infos.com/\">gr-infos.com</a>"
+polaco:
+  0: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+pomorska:
+  1: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+portcosta:
+  0: "adapted from kml files from various users on <a href=\"http://pt.wikiloc.com/\">wikiloc</a>"
+portnorte:
+  1: "kml files from <a href=\"http://pt.wikiloc.com/wikiloc/user.do?name=Luis%20do%20Freixo\">wikiloc</a>"
+portugues:
+  0: "adapted from KML files from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a> (Portuguese sections) and <a href=\"http://camino.xacobeo.es\">Xacobeo</a> (Galician sections)"
+potsdam:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+primitivo:
+  0: "Asturias section adapted from kml file from <a href=\"http://www.cartografia.asturias.es/Hipervinculos/KMLS/Camino Santiago/CaminoDeSantiago.kml\">Asturias regional government</a>; Galician section from O Cadavo and Buron variant adapted from kml files from <a href=\"http://camino.xacobeo.es\">Xacobeo</a>; other sections from KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+puy:
+  0: "kml files from <a href=\"http://www.gr-infos.com/\">gr-infos.com</a>"
+regia:
+  0: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+  1: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+  2: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+  3: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+  4: "German section from KML file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+  d: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+  e: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+  f: "Polish section adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+reims:
+  0: "GPX trails in Champagne-Ardenne from <a href=\"http://www.tourisme-champagne-ardenne.com/balades/voyageurs/sentier-saint-jacques-de-compostelle.aspx\">Tourisme Champagne-Ardenne</a>; Tonnerre-Vezelay kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>; Rocroi-Reims ASJ alternative entered by P Robins"
+rhein:
+  0: "kml files from <a href=\"http://www.linksrheinischer-jakobsweg.info/\">Linksrheinischer Jakobsweg</a>"
+rheinhessen:
+  0: "adapted from gpx files from <a href=\"http://www.outdooractive.com/\">outdooractive</a>"
+rochelle:
+  0: "entered by P Robins"
+rothenspeyer:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  a: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+rothrott:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+roussillon:
+  0: "entered by P Robins"
+royan:
+  0: "entered by P Robins"
+saar:
+  0: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+  a: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+sachsen:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+  a: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+sachsenanhalt:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+salvador:
+  0: "Asturias section adapted from kml file from <a href=\"http://www.cartografia.asturias.es/Hipervinculos/KMLS/Camino Santiago/CaminoDeSantiago.kml\">Asturias regional government</a>; other sections from KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+sanabres:
+  0: "Leon section and variant via Oseira adapted from trail on <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">wikiloc.com</a>; Galician section from kml files from <a href=\"http://camino.xacobeo.es\">Xacobeo</a>"
+  a: "Leon section and variant via Oseira adapted from trail on <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">wikiloc.com</a>; Galician section from kml files from <a href=\"http://camino.xacobeo.es\">Xacobeo</a>"
+scandinavica:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+schwaben:
+  0: "kml files from <a href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+slovenija:
+  0: "kml file from <a href=\"http://www.gpsies.com/map.do?username=mariobre\">gpsies.com</a>"
+stade:
+  1: "adapted from kml file from <a href=\"http://www.magicoveneto.it/\">MagicoVeneto</a>"
+strasbourg:
+  0: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  a: "Kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+sudostbayern:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+  a: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+sur:
+  0: "adapted from kml files from users burunda and Guadiato16 on <a href=\"http://es.wikiloc.com/wikiloc/view.do?id=1184469\">wikiloc</a>"
+sureste:
+  0: "adapted from KML file from <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a>"
+  a: "extension to Sta Marta de Tera adapted from kml file from <a href=\"http://www.wikiloc.com/wikiloc/user.do?name=semurandar\">wikiloc.com</a>"
+tarragona:
+  0: "kml file from wikiloc, <a href=\"http://es.wikiloc.com/wikiloc/user.do?name=estebanez\">user estebanez</a>"
+tauber:
+  0: "adapted from KML files from <a href=\"http://www.wanderkompass.de/\">wanderkompass.de</a>"
+teixido:
+  0: "GPS file from <a href=\"http://www.clubmontanaferrol.com/gps.htm\">clubmontanaferrol.com</a>"
+thurgau:
+  0: "kml files from <a  href=\"http://www.jakobsweg.ch/home/wegstrecken/\">Jakobsweg.ch</a>"
+torres:
+  0: "kml files from <a href=\"http://caminosantiago.usal.es/torres/\">Camino Torres</a>"
+toulouse:
+  0: "Kml files from <a href=\"http://viatolosana.free.fr/vt_accueil.htm\">viatolosana.free.fr</a>"
+tours:
+  0: "Kml files from <a href=\"http://www.saint-jacques-aquitaine.com/voie_tours.php\">Amis de St Jacques en Aquitaine</a> (Mirambeau-Le Muret) and <a href=\"http://pagesperso-orange.fr/vtt.compostelle/fiches.htm\">VTT-Compostelle</a> (Le Muret-Ostabat); other lines entered by P Robins"
+trier:
+  0: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+  a: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+tunel:
+  0: "Kml files from <a href=\"http://www.caminosnorte.org\">Guipuzcoa Amigos</a> and <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a> (Burgos branch)"
+  a: "Kml files from <a href=\"http://www.caminosnorte.org\">Guipuzcoa Amigos</a> and <a href=\"http://www.caminosantiago2010.es/\">caminosantiago2010.es</a> (Burgos branch)"
+ubeda:
+  0: "adapted from kml files from <a href=\"http://granadajacobea.com.es/\">Granada Amigos</a>"
+ulm:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+unterfranken:
+  0: "Kml file from <a href=\"http://www.occa.de\">occa.de</a>"
+vadiniense:
+  0: "from gpx file from <a href=\"http://www.rutavadiniense.org/\">Asociación Ruta Vadiniense</a>"
+venice:
+  0: "adapted from kml files from <a href=\"http://www.venicetosantiago.com/\">venicetosantiago.com</a>"
+venlo:
+  0: "gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+  a: "gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+vfsf:
+  0: "adapted from gpx files from <a href=\"http://www.passidifrancesco.it/\">passidifrancesco.it</a> and kml file from <a href=\"http://www.camminodifrancesco.it/\">Cammino di Francesco</a>"
+vicente:
+  0: "gpx file from <a href=\"http://www.caminodesanvicentemartir.es/\">Asociación Via Viicentius Valentiae</a>"
+vinschgau:
+  0: "adapted from kml file from <a href=\"http://www.gpsies.com/trackList.do?userTracks=jakobsweg_suedtirol\">GPSies</a>"
+vogtland:
+  0: "adapted from gpx files from <a href=\"http://jakobsweg.in-chemnitz.de/\">jakobsweg.in-chemnitz.de/</a>"
+volto:
+  1: "adapted from gpx files from <a href=\"http://www.turismo.provincia.lucca.it/list.php?idcat=13\">Lucca Turismo</a>"
+waldshut:
+  0: "kml file from <a href=\"http://www.occa.de/Jakobsweg/\">occa.de</a>"
+weinviertel:
+  0: "kml file from <a href=\"http://www.niederoesterreich.at/portal/default.asp?tt=NOE09_R77\">Niederösterreich website</a>"
+westfalen:
+  0: "kml file from <a href=\"http://www.lwl.org/LWL/Kultur/Altertumskommission/Jakobspilger/\">Altertumskommission für Westfalen</a>"
+weststeierisch:
+  0: "kml file from <a href=\"http://www.steiermark.com/de/poi/wandertour-weststeirischer-jakobsweg_41749\">Steiermark Tourismus</a>"
+  a: "kml file from <a href=\"http://www.steiermark.com/de/poi/wandertour-weststeirischer-jakobsweg_41749\">Steiermark Tourismus</a>"
+wielkopolska:
+  0: "adapted from KML files from <a href=\"http://www.olesnicamala.info/\">olesnicamala.info</a>"
+wilsnack:
+  0: "Kml file from <a href=\"http://www.fernwege.de/gps/google-earth/index.html\">fernwege.de</a>"
+wittenberg:
+  0: "kml file from <a href=\"http://occa.de/Jakobsweg/\">occa.de</a>"
+wuppertal:
+  0: "gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+xanten:
+  0: "gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+  a: "gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+  b: "gpx file from <a href=\"http://www.jakobspilger.lvr.de/jakobswege/\">Landschaftsverband Rheinland</a>"
+zittau:
+  0: "Kml file from <a href=\"http://www.occa.de/\">occa.de</a>"

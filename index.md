@@ -11,3 +11,4 @@ The pages are all stored on [Github]({{site.github.url}}), so anyone with an int
 
 * [Alphabetical list of routes](alphalist.html)
 * [Overview map of routes](maps.html?routes=)
+* [Routeline attributions](mapattributions.html)
