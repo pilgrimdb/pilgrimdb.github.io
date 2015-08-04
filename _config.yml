@@ -14,12 +14,22 @@ defaults:
   -
     scope:
       path: ""
+      type: "routefc"
+    values:
+      layout: "routefc"
+      sitemap: false
+  -
+    scope:
+      path: ""
       type: "features"
     values:
       layout: "feature"
       sitemap: false
 
 collections:
+  routefc:
+    output: true
+    permalink: /:path.geojson
   features:
     output: true
     permalink: /features/:path.geojson
