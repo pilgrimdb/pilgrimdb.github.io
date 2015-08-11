@@ -50,8 +50,8 @@ kramdown:
   input: GFM
 
 # plug-ins
-gems:
-  - jekyll-sitemap
+# gems:
+#   - jekyll-sitemap
 
 # Exclude these files from your production _site
 exclude:
