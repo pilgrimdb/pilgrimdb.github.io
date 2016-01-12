@@ -5,42 +5,9 @@
   <title>Pilgrim Route Maps</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Mapping for route maps. URL querystring determines which map, in format: ?type=base/id where type is one of route/feature/routes; base is global or national mapping authority; id is route or feature id.">
-  <link rel="stylesheet" href="https://github.jspm.io/probins/map-make/css/map-make.css">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/0.1.9/slideout.min.js"></script>
-  <script>
-    if (!window.Promise) {
-      document.write(
-        '<' + 'script src="https://es6-promises.s3.amazonaws.com/es6-promise-2.0.1.min.js"><\/script>'
-      );
-    }
-    // load fetch polyfill if not natively supported
-    if (!window.fetch) {
-      document.write(
-        '<' + 'script src="https://github.jspm.io/probins/map-make/fetch.min.js"><\/script>'
-      );
-    }
-  </script>
-  <script src="https://github.jspm.io/systemjs/systemjs@0.18.3/dist/system.js"></script>
+  <script src="https://github.jspm.io/probins/map-make@master/initloader.js"></script>
 </head>
 <body>
-  <div id="status">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
   <script src="js/setupMapdef.js"></script>
-  <script>
-    // System.defaultJSExtensions = true;
-    // set paths for prod
-    System.config({
-      baseURL: 'https://github.jspm.io/probins/map-make@master/',
-      paths: {
-        '*': '*.js',
-        "github:*":"https://github.jspm.io/*.js"
-      },
-      depCache: {
-        'map-make': ['utils', 'mapDef']
-      }});
-    System.import('map-make');
-  </script>
 </body>
 </html>
