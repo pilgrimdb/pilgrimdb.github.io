@@ -24,7 +24,7 @@ d:
   map: "de/bkg/atlasde"
 e:
   name: IGN(E)
-  map: "es/ign/mtn"
+  map: "es/ign/mapas"
 f:
   name: IGN(F)
   map: '{"fr/ign/topo":"apikey"},{"fr/ign/photos":"apikey"},{"fr/ign/etat":"apikey"}'
