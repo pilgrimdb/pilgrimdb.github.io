@@ -39,3 +39,6 @@ In addition, there is a list of attributions for each mapped route/branch.
 
 * `/simp.geo` generates a GeoJSON Feature Collection for all the simplified geometries (using `_layouts/fc`), accessed with `/simp.geojson`, and used by the overview map
 * `unmapped.geo` generates a GeoJSON Feature Collection with 1 feature per unmapped branch (using `_layouts/fc`, which uses `_data/places.yaml` to get the appropriate Lon/Lat coordinate for each town); this is accessed with `/unmapped.geojson`, and is also used by the overview map
+
+#### Mapping
+The map program uses https://github.com/probins/map-make; `js/setupMapdef.js` converts the URL into map-make parameters.
