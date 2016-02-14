@@ -14,11 +14,9 @@ The basic principle is that users have one 'repository' ('repo' for short) for e
 
 As stated in the Readme, the database uses a fixed structure which all routes and geographic features adhere to. Contributions should follow this structure, though suggestions for improving the structure are always welcome. Of course, if the structure changes, all entries in the database have to be changed accordingly.
 
-Geographic features are GeoJSON linestrings. You can convert files in other formats, such as KML (Google Earth) or GPX (widely used by GPS devices), into GeoJSON using online converters such as [Ogre](http://ogre.adc4gis.com/). GPX files in particular can be very large (for example, if the position is taken every few seconds), and such detail is not needed for mapping at the scales used by walkers or cyclists. So the database stores the linestrings in two standardised levels of detail, simplified as necessary using the Douglas-Peucker algorithm. You can do this reduction at http://iojs-probins.rhcloud.com/html/geojson.html; upload the GeoJSON file, and it returns for each feature in the file:
-* the properties specified in the file
+Geographic features are GeoJSON linestrings. You can convert files in other formats, such as KML (Google Earth) or GPX (widely used by GPS devices), into GeoJSON using online converters such as [Ogre](http://ogre.adc4gis.com/). GPX files in particular can be very large (for example, if the position is taken every few seconds), and such detail is not needed for mapping at the scales used by walkers or cyclists. So the database stores the linestrings in two standardised levels of detail, simplified as necessary using the Douglas-Peucker algorithm. You can do this reduction using the map program, which enables you to save features in GeoJSON format with simplified geometries:
 * the geometry for the less detailed 0.01 tolerance used for the Europe-wide overview map
 * the geometry for the default 0.00001 tolerance for map scales typically used for walking
-* the distance in km
 
 #### Example contributions
 
