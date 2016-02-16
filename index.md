@@ -7,7 +7,7 @@ Nor is there any real rule on how a 'pilgrimage route' differs from any other wa
 
 Although the emphasis is on walking routes, many can also be used by cyclists, and even where a section is not really usable by cyclists it is generally easy for them to deviate onto a minor road going in the same direction.
 
-The pages are all stored on [Github]({{site.github.url}}), so anyone with an interest and time to spare can contribute by suggesting improvements, or adding new routes or map data. Each page has a link to the appropriate source on Github.
+The pages are all stored on [Github](https://github.com/pilgrimdb/pilgrimdb.github.io/), so anyone with an interest and time to spare can contribute by suggesting improvements, or adding new routes or map data. Each page has a link to the appropriate source on Github.
 
 * [Alphabetical list of routes](alphalist.html)
 * [Overview map of routes](maps.html?routes=)
