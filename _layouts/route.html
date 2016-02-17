@@ -68,7 +68,7 @@ layout: default
     </ul>
 
     <h4>Map of all mapped sections</h4>
-    <a href="maps.html?route=osm/{{ page.id }}">OSM</a> <a href="maps.html?route=bing/{{ page.id }}">Bing</a>
+    <a href="maps.html?route=osm/{{ page.id }}">OSM</a> <a href="maps.html?route=topo/{{ page.id }}">OpenTopo</a> <a href="maps.html?route=bing/{{ page.id }}">Bing</a>
     {% for agency in agencies %}<a href="maps.html?route={{agency}}/{{ page.id }}">{{site.data.maptypes[agency].name}}</a> {% endfor %}
     {% endif %}
   </div>
