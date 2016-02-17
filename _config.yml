@@ -32,7 +32,7 @@ collections:
     permalink: /:path.geojson
   features:
     output: true
-    permalink: /features/:path.geojson
+#    permalink: /features/:path.geojson
   routes:
     output: true
     permalink: /:path:output_ext
