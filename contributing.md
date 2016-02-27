@@ -39,6 +39,6 @@ Geographic features are GeoJSON linestrings. You can convert files in other form
   * use the split tool to split the feature as appropriate
   * save option
   * copy the output (in toolbar) to a file on your computer
-  * get the geometries and distances from http://iojs-probins.rhcloud.com/html/geojson.html
+  * get the geometries and distances
   * change the old map section to the first of the new, as above
   * add the other map section(s) as above
