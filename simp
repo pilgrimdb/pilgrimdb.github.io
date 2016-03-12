@@ -4,4 +4,4 @@ permalink: /simp.geojson
 sitemap: false
 ---
 {% assign first = true %}{% for route in site.data.mapsections %}{% assign firstf = true %}{% if first == false %},{% else %}{% assign first = false %}{% endif %}
-{"type":"Feature","id":"{{route[0]}}","properties":{"title":"{{route[0]}}","page":"<a href='/{{route[0]}}.html'>{{route[0]}}.html</a>"},"geometry":{"type":"GeometryCollection","geometries":[{% for mapsection in route[1] %}{% assign f = site.data.features[mapsection] %}{% if firstf == false %},{% else %}{% assign firstf = false %}{% endif %}{% capture fname %}simples/{{f.id}}.geojson{% endcapture %}{% include {{fname}} %}{% endfor %}]}}{% endfor %}
+{"type":"Feature","properties":{"title":"{{route[0]}}","page":"<a href='/{{route[0]}}.html'>{{route[0]}}.html</a>"},"geometry":{"type":"GeometryCollection","geometries":[{% for mapsection in route[1] %}{% assign f = site.data.features[mapsection] %}{% if firstf == false %},{% else %}{% assign firstf = false %}{% endif %}{% capture fname %}simples/{{f.id}}.geojson{% endcapture %}{% include {{fname}} %}{% endfor %}]}}{% endfor %}
