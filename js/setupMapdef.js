@@ -2,6 +2,7 @@
 layout: null
 ---
 var mapDef = document.createElement('mapdef');
+mapDef.style.display = 'none';
 var qs = window.location.search.substring(1).split('&');
 var attribution = encodeURIComponent('route lines: see route attributions page');
 var routes = [
