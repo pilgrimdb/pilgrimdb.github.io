@@ -3,8 +3,8 @@ layout: default
 ---
 
 <article class="route">
-
-  <h4>Id: {{ page.id }}</h4>
+{% assign pid = page.id | replace_first:'/','' %}
+  <h4>Id: {{ pid }}</h4>
 
   <div class="entry">
     {% if page.branches %}
@@ -53,11 +53,11 @@ layout: default
     <p>{{ page.synopsis }}</p>
     {{ content }}
 
-    {% if site.data.mapsections[page.id] %}
+    {% if site.data.mapsections[pid] %}
     <h3>Mapped Sections</h3>
     <ul id="mappedSections">
     {% assign agencies = mapagencies | split: '|' %}{% assign prevbranch = "" %}
-    {% for mapsection in site.data.mapsections[page.id] %}
+    {% for mapsection in site.data.mapsections[pid] %}
     {% assign section = site.data.features[mapsection] %}
       {% capture branch %}{% if section.branch %}{{ section.branch }}{% else %}0{% endif %}{% endcapture %}
       {% if branch != prevbranch %}{% assign branchkm = section.distance %}{% assign prevbranch = branch %}{% else %}
@@ -68,8 +68,8 @@ layout: default
     </ul>
 
     <h4>Map of all mapped sections</h4>
-    <a href="maps.html?route=osm/{{ page.id }}">OSM</a> <a href="maps.html?route=topo/{{ page.id }}">OpenTopo</a> <a href="maps.html?route=bing/{{ page.id }}">Bing</a>
-    {% for agency in agencies %}<a href="maps.html?route={{agency}}/{{ page.id }}">{{site.data.maptypes[agency].name}}</a> {% endfor %}
+    <a href="maps.html?route=osm/{{ pid }}">OSM</a> <a href="maps.html?route=topo/{{ pid }}">OpenTopo</a> <a href="maps.html?route=bing/{{ pid }}">Bing</a>
+    {% for agency in agencies %}<a href="maps.html?route={{agency}}/{{ pid }}">{{site.data.maptypes[agency].name}}</a> {% endfor %}
     {% endif %}
   </div>
 </article>
