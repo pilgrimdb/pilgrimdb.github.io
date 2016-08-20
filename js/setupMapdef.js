@@ -57,7 +57,7 @@ function createMapdef(str, dir, attr) {
   el.innerHTML = maptypes[parts[0]].map;
   mapDef.appendChild(el);
   el = document.createElement('components');
-  el.innerHTML = "mouseposition,tooltip,featuredisplay";
+  el.innerHTML = "cursorposition,tooltip,featuredisplay";
   mapDef.appendChild(el);
   // if dir, prepend and add geojson, else remove maptype/ from str
   var url = dir ? dir + parts[1] + '.geojson' : str.substring(str.indexOf('/')+1);
