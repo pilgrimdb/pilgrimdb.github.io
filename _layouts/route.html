@@ -66,6 +66,7 @@ layout: default
           map: <a href="maps.html?feature=osm/{{ section.id }}">OSM</a> <a href="maps.html?feature=bing/{{ section.id }}">Bing</a> {% for agency in agencies %}<a href="maps.html?feature={{agency}}/{{ section.id }}">{{site.data.maptypes[agency].name}}</a> {% endfor %} ({{ section.id }})</li>
     {% endfor %}
     </ul>
+    <p>To get route data in KML or GPX, download the appropriate GeoJSON file, and use an online converter such as the one on <a href="https://mygeodata.cloud/converter/">MyGeodata</a>. You can also convert in the map page by adding the `draw` component and then using the `save all` option.</p>
 
     <h4>Map of all mapped sections</h4>
     <a href="maps.html?route=osm/{{ pid }}">OSM</a> <a href="maps.html?route=topo/{{ pid }}">OpenTopo</a> <a href="maps.html?route=bing/{{ pid }}">Bing</a>
