@@ -27,26 +27,6 @@ layout: default
       {% endunless %}{% endfor %}{% endif %}
     {% endfor %}
     </ul>
-
-    <!-- create overview map geojson from branch towns; geometry fetched from _data/towns -->
-    {% assign features = "" %}
-    {% for branch in page.branches %}
-      {% assign linestring = "[" %}{% assign towns = branch.towns | split:"," %}
-      {% comment %}get town coords{% endcomment %}
-      {% for town in towns %}
-      {% capture coord %}{{ site.data.places[town].geometry }}{% if forloop.last == false %},{% else %}]{% endif %}{% endcapture %}
-      {% comment %}convert to linestring{% endcomment %}
-      {% capture linestring %}{{ linestring | append: coord }}{% endcapture %}
-      {% endfor %}
-      {% comment %}liquid can't handle close curly in string{% endcomment %}
-      {% capture feature %}{{ '{"type":"Feature","geometry":{"type":"LineString","coordinates":' | uri_escape }}{{ linestring }}{{ ',"properties":{' | uri_escape | append:"%7D%7D" | prepend:'%7D' }}{% if forloop.last == false %},{% endif %}{% endcapture %}
-      {% capture features %}{{ features | append: feature }}{% endcapture %}
-    {% endfor %}
-    {% capture geo %}{{ '{"type":"FeatureCollection","features":[' | uri_escape }}{{features}}%5D%7D{% endcapture %}
-    <figure>
-    <img src="https://api.tiles.mapbox.com/v4/mapbox.run-bike-hike/geojson%28{{geo}}%29/auto/500x300.png?access_token={{site.apikeys.mapbox}}" alt="overview map" title="overview map">
-    <figcaption>Lines schematic only; base map <a href="https://www.mapbox.com/about/maps/">© Mapbox © OpenStreetMap</a></figcaption>
-    </figure>
     {% endif %}
 
     <h3>Description</h3>
